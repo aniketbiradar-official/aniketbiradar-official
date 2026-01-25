@@ -1,16 +1,18 @@
-## Hi there 👋
+# Aniket Biradar
 
-<!--
-**aniketbiradar-official/aniketbiradar-official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Sc. Computer Science Student | Python & Java Developer
 
-Here are some ideas to get you started:
+I build practical software projects focused on backend development, automation, and database-driven applications. I use GitHub to document my work and continuously improve code quality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- PDF Merger Tool — Python GUI application for merging PDF files
+- Image Scraper — Python-based web scraping tool
+- Library Management System — Java web application using JSP, Servlets, and MySQL
+
+## Tech Stack
+Python, Java, C, C++, JavaScript  
+MySQL, SQLite, MongoDB  
+NumPy, Pandas, Selenium, tkinter  
+Django, FastAPI, Flask, Spring (learning)
+
+📫 LinkedIn: https://www.linkedin.com/in/aniket-biradar
