@@ -1,9 +1,9 @@
 # Aniket Biradar
 
 B.Sc. Computer Science (4th Semester)  
-Python & Java Developer | Backend Systems • Automation • Web Applications
+Python & Java Developer | Full-Stack Development • Automation • Web Applications • Desktop Applications
 
-I am a Computer Science undergraduate at COCSIT, Latur, with a strong interest in building reliable and well-structured software systems. My work focuses on backend development, automation tools, and database-driven applications, with an emphasis on clarity, maintainability, and real-world use cases.
+I am a Computer Science undergraduate at COCSIT, Latur, with a strong interest in building reliable and well-structured software systems. My work focuses on full-stack development, automation tools, and database-driven applications, with an emphasis on clarity, maintainability, and real-world use cases.
 
 I actively use GitHub to design, document, and refine projects that apply core computer science concepts through practical implementation.
 
@@ -25,3 +25,4 @@ I actively use GitHub to design, document, and refine projects that apply core c
 - Continuous improvement through refactoring and learning  
 
 **LinkedIn:** https://www.linkedin.com/in/aniket-biradar-a6b775371/
+**Portfolio:** https://aniketbiradar-official.github.io/portfolio/
