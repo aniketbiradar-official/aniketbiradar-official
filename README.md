@@ -25,4 +25,5 @@ I actively use GitHub to design, document, and refine projects that apply core c
 - Continuous improvement through refactoring and learning  
 
 **LinkedIn:** https://www.linkedin.com/in/aniket-biradar-a6b775371/
+
 **Portfolio:** https://aniketbiradar-official.github.io/portfolio/
