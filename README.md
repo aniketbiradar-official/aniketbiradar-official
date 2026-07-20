@@ -1,341 +1,551 @@
 <div align="center">
-  <!-- Premium SVG Hero Banner -->
-  <img src="assets/hero.svg" alt="Aniket Biradar Hero Banner" width="100%" />
-</div>
-
-<div align="center">
-  <!-- Dynamic Typing SVG Subtitle -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Python+Developer+%E2%80%A2+Java+Developer;Backend+Engineer+%E2%80%A2+Automation+Specialist;B.Sc+Computer+Science+Student+%E2%80%A2+9.55+CGPA" alt="Typing SVG" />
-  </a>
+  <img src="https://raw.githubusercontent.com/aniketbiradar-official/aniketbiradar-official/main/assets/wave-top.svg" width="100%" alt="" />
 </div>
 
 <br />
 
 <div align="center">
-  <!-- Premium Custom Styled Social Pill Buttons -->
-  <a href="https://aniketbiradar-official.github.io/portfolio/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=google-chrome&logoColor=38BDF8&labelColor=0F172A" alt="Portfolio" />
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=42&duration=3000&pause=800&color=2563EB&center=true&vCenter=true&width=800&height=70&lines=ANIKET+BIRADAR" alt="Aniket Biradar" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=18&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=40&lines=Python+Developer+%7C+Java+Developer+%7C+Backend+Engineer;Automation+Engineer+%7C+Full+Stack+Learner" alt="roles" />
+</div>
+
+<br />
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| 📍 **India** | 🎓 **B.Sc Computer Science · 4th Sem** | 📊 **CGPA 9.55 / 10** |
+
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://aniketbiradar-official.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=GoogleChrome&logoColor=white" alt="Portfolio" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aniket-biradar-a6b775371/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=2563EB&labelColor=0F172A" alt="LinkedIn" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/aniket-biradar-a6b775371/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/aniketbiradar-official" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=F8FAFC&labelColor=0F172A" alt="GitHub" />
+  &nbsp;
+  <a href="https://github.com/aniketbiradar-official">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:aniketbiradar.official@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=7C3AED&labelColor=0F172A" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="assets/divider.svg" alt="Section Divider" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=aniketbiradar-official&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile views" />
 </div>
 
 <br />
 
-## 🪐 About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
+
+<br />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="28" height="28" alt="" /> About
+
+<br />
+
+<div align="center">
+<table>
+<tr>
+<td width="100%">
+
+<br />
+
+I build **production-oriented software** — systems designed with clean architecture, deliberate boundaries, and long-term maintainability in mind.
+
+My work centers on **backend engineering**, **desktop applications**, **automation pipelines**, and **database-driven systems**. I treat every project as an exercise in engineering discipline: configuration management, structured logging, separation of concerns, and code that remains readable months later.
+
+GitHub is my engineering journal. Each repository documents a problem solved, a pattern applied, and a skill sharpened. I learn by building real software — not tutorials — and continuously refine how I design, structure, and ship.
+
+<br />
+
+</td>
+</tr>
+</table>
+</div>
+
+<br />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
+
+<br />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="28" height="28" alt="" /> Engineering Stack
+
+<br />
+
+<div align="center">
+
+| Languages | Backend | Databases |
+|:---------:|:-------:|:---------:|
+| `Python` | `Django` | `MySQL` |
+| `Java` | `FastAPI` | `SQLite` |
+| `C` / `C++` | `Flask` | `MongoDB` |
+| `JavaScript` | `JSP` · `Servlets` | |
+| | `Spring` *(learning)* | |
+
+<br />
+
+| Libraries | Tools | Concepts |
+|:---------:|:-----:|:--------:|
+| `NumPy` · `Pandas` | `Git` · `GitHub` | `MVC` · `REST APIs` |
+| `Selenium` | `VS Code` · `PyCharm` | `OOP` · `Data Structures` |
+| `Tkinter` · `PyPDF2` | `Postman` | `SQL` · `Logging` |
+| | | `Exception Handling` |
+| | | `Config Management` |
+| | | `Layered Architecture` |
+
+</div>
+
+<br />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
+
+<br />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" height="28" alt="" /> Featured Projects
+
+<br />
+
+<details open>
+<summary><strong>▸ ImageScraper</strong> — Production-grade web scraping system</summary>
+
+<br />
+
+<table>
+<tr>
+<td>
+
+**Overview**
+
+Industry-oriented image scraping pipeline built for reliability at scale. Designed with cloud-ready architecture, deterministic deduplication, and operational observability from day one.
+
+<br />
+
+**Architecture**
 
 ```
-  ____ _   _ _____ _____     ____  _ _____ _____ _  _    
- / ___| \ | | ____|_   _|   |  _ \(_)  ___| ____| |/ /   
-| |   |  \| |  _|   | |     | | | | | |_  |  _| | ' /    
-| |___| |\  | |___  | |     | |_| | |  _| | |___| . \    
- \____|_| \_|_____| |_|     |____/|_|_|   |_____|_|\_\   
-                                                         
+CLI → Config Layer → Scraper Engine → Dedup (SHA-256) → GridFS → MongoDB Atlas
+                         ↓
+                   Structured Logging
 ```
 
-I am an aspiring backend engineer and computer science undergraduate focused on building production-oriented software, desktop applications, and automated systems. I treat my GitHub profile not just as a hosting service, but as an **engineering journal** documenting my progression, refactoring habits, and technical decisions. 
+<br />
 
-- **Engineering Mindset**: I believe in learning by building. I design and implement systems from the ground up, placing special emphasis on structural clean code, exception handling, logging systems, and databases.
-- **Backend & Automation Focus**: Specializing in Python and Java environments, I leverage frameworks and tools to engineer robust databases, CLI tools, scrapers, and desktop suites.
-- **Academics & Drive**: Pursuing a B.Sc. in Computer Science (4th Semester) with a current standing CGPA of **9.55 / 10**, translating theoretical computer science concepts (OOP, MVC, Data Structures) into high-performance software systems.
+**Engineering Highlights**
+
+- Selenium-driven extraction with resilient wait strategies
+- MongoDB Atlas + GridFS for distributed binary storage
+- SHA-256 content hashing for zero-duplicate guarantees
+- Environment-based configuration — no hardcoded secrets
+- Production folder structure with separated concerns
+- Full CLI interface for scripted and manual operation
+- Cloud-ready deployment path
 
 <br />
 
-<div align="center">
-  <img src="assets/divider.svg" alt="Section Divider" width="100%" />
-</div>
+**Stack** &nbsp; `Python` · `Selenium` · `MongoDB Atlas` · `GridFS` · `python-dotenv`
 
 <br />
 
-## 🛠️ Tech Stack & Current Learning
+<a href="https://github.com/aniketbiradar-official">
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-7C3AED?style=for-the-badge" alt="Demo" />
 
-To achieve high-quality software, I maintain a strict and clean toolchain. The card below details my specialized languages, frameworks, libraries, tools, and conceptual fundamentals.
-
-*Items marked with a purple dotted border/bullet in the graphic denote areas under active expansion (e.g., Spring Boot, Docker, Cloud).*
-
-<br />
-
-<div align="center">
-  <!-- Custom SVG Tech Stack Map -->
-  <img src="assets/tech_stack.svg" alt="Aniket's Tech Stack Map" width="100%" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="assets/divider.svg" alt="Section Divider" width="100%" />
-</div>
-
-<br />
-
-## 📁 Featured Production-Style Projects
-
-Rather than building basic tutorial projects, I design real-world software applications utilizing clean, layered, and scalable architecture pattern models.
-
-### 1. ⚙️ ImageScraper — Enterprise Scraper Pipeline
-> **Core Architecture:** Config-driven, Cloud-Ready, CLI Orchestration  
-> **Primary Stack:** Python • Selenium • MongoDB Atlas • GridFS • Hashlib
-
-<table width="100%">
-  <tr>
-    <td width="65%" valign="top">
-      <h4>Engineering Highlights</h4>
-      <ul>
-        <li><b>SHA256 Deduplication</b>: Configured a localized and remote hashing index using hashlib, ensuring duplicate assets are filtered at the edge before hitting storage limits.</li>
-        <li><b>Hybrid GridFS Engine</b>: Built modular database adapters supporting high-fidelity storage of images &gt;16MB using MongoDB GridFS alongside standard metadata schemas.</li>
-        <li><b>Production Configuration</b>: Fully parameterized application state via <code>.env</code> file schemas and Python's <code>logging</code> module, featuring daily log rotation.</li>
-      </ul>
-    </td>
-    <td width="35%" valign="middle" align="center" style="background-color: #0b1329; border-radius: 8px;">
-      <p><b>DATABASE INTEGRITY</b></p>
-      <code>GridFS Cloud Storage</code><br/>
-      <code>100% Unique Assets</code><br/><br/>
-      <a href="https://github.com/aniketbiradar-official/ImageScraper" target="_blank">
-        <img src="https://img.shields.io/badge/View_Source-2563EB?style=flat-square&logo=github" alt="GitHub Repo" />
-      </a>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
----
+</details>
 
-### 2. 📊 Personal Expense Tracker — Desktop Analytics Suite
-> **Core Architecture:** Strict 3-Tier Layered Architecture (UI -> Services -> DB Access)  
-> **Primary Stack:** Python • Tkinter • SQLite • Pandas • Matplotlib • PyInstaller
+<br />
 
-<table width="100%">
-  <tr>
-    <td width="65%" valign="top">
-      <h4>Engineering Highlights</h4>
-      <ul>
-        <li><b>Pandas Analytical Processing</b>: Programmed a clean background reporting pipeline that dynamically computes financial analytics, generating visual charts locally using Matplotlib.</li>
-        <li><b>DB Schema & Transactional Safety</b>: Engineered an optimized SQLite relational architecture containing robust budgeting parameters and cascading deletes on primary categories.</li>
-        <li><b>Native Compilation</b>: Configured automated build specifications via PyInstaller to compile cross-platform standalone executables with localized asset structures.</li>
-      </ul>
-    </td>
-    <td width="35%" valign="middle" align="center" style="background-color: #0b1329; border-radius: 8px;">
-      <p><b>STANDALONE DESKTOP</b></p>
-      <code>Offline First App</code><br/>
-      <code>3-Tier Modular Layering</code><br/><br/>
-      <a href="https://github.com/aniketbiradar-official/ExpenseTracker" target="_blank">
-        <img src="https://img.shields.io/badge/View_Source-2563EB?style=flat-square&logo=github" alt="GitHub Repo" />
-      </a>
-    </td>
-  </tr>
+<details>
+<summary><strong>▸ Personal Expense Tracker</strong> — Desktop finance application</summary>
+
+<br />
+
+<table>
+<tr>
+<td>
+
+**Overview**
+
+Cross-platform desktop application for personal finance management. Delivers budgeting workflows, visual analytics, and data portability through a polished dark-mode interface.
+
+<br />
+
+**Architecture**
+
+```
+UI (Tkinter) → Service Layer → SQLite DAO → Local DB
+                    ↓
+              Charts · CSV Export · Budget Engine
+```
+
+<br />
+
+**Engineering Highlights**
+
+- Layered architecture separating UI, business logic, and persistence
+- SQLite-backed storage with clean data access patterns
+- Interactive charts and spending analytics
+- Native dark mode interface
+- Budget tracking with threshold awareness
+- One-click CSV export
+- PyInstaller packaging with distributable installer
+
+<br />
+
+**Stack** &nbsp; `Python` · `Tkinter` · `SQLite` · `Matplotlib` · `PyInstaller`
+
+<br />
+
+<a href="https://github.com/aniketbiradar-official">
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-7C3AED?style=for-the-badge" alt="Demo" />
+
+</td>
+</tr>
 </table>
 
----
+</details>
 
-### 3. 📚 Library Management System — Enterprise Web Dashboard
-> **Core Architecture:** Model-View-Controller (MVC) Pattern  
-> **Primary Stack:** Java • JSP • Servlets • JDBC • MySQL • Tomcat
+<br />
 
-<table width="100%">
-  <tr>
-    <td width="65%" valign="top">
-      <h4>Engineering Highlights</h4>
-      <ul>
-        <li><b>Model-View-Controller Isolation</b>: Decoupled JSP interfaces (View) from JDBC transaction logic (Model) via custom Servlet routers (Controller).</li>
-        <li><b>Role-Based Access Control (RBAC)</b>: Implemented session-level filters to intercept and authenticate HTTP requests, preventing privilege escalation.</li>
-        <li><b>Transaction Pools</b>: Structured clean database queries preventing connection leaks by utilizing closed resources in structured try-with-resources sequences.</li>
-      </ul>
-    </td>
-    <td width="35%" valign="middle" align="center" style="background-color: #0b1329; border-radius: 8px;">
-      <p><b>ENTERPRISE JAVA</b></p>
-      <code>MVC Architecture</code><br/>
-      <code>Session Authentication</code><br/><br/>
-      <a href="https://github.com/aniketbiradar-official/LibrarySystem" target="_blank">
-        <img src="https://img.shields.io/badge/View_Source-2563EB?style=flat-square&logo=github" alt="GitHub Repo" />
-      </a>
-    </td>
-  </tr>
+<details>
+<summary><strong>▸ Library Management System</strong> — Java web application</summary>
+
+<br />
+
+<table>
+<tr>
+<td>
+
+**Overview**
+
+Full-stack library management platform implementing role-based access control, session authentication, and complete CRUD workflows over a relational data model.
+
+<br />
+
+**Architecture**
+
+```
+JSP Views → Servlets (Controller) → Service Layer → MySQL
+                ↓
+        Session Auth · RBAC Filters
+```
+
+<br />
+
+**Engineering Highlights**
+
+- Classic MVC separation with JSP views and Servlet controllers
+- Role-based access control for admin and member flows
+- Session-based authentication
+- Full CRUD for books, members, and issue/return cycles
+- MySQL relational schema with referential integrity
+
+<br />
+
+**Stack** &nbsp; `Java` · `JSP` · `Servlets` · `MySQL` · `MVC` · `JDBC`
+
+<br />
+
+<a href="https://github.com/aniketbiradar-official">
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-7C3AED?style=for-the-badge" alt="Demo" />
+
+</td>
+</tr>
 </table>
 
----
+</details>
 
-### 4. 📄 PDF Merger Tool — Desktop Automation Utility
-> **Core Architecture:** Single Responsibility desktop automation system  
-> **Primary Stack:** Python • Tkinter GUI • PyPDF2 • Logging
+<br />
 
-<table width="100%">
-  <tr>
-    <td width="65%" valign="top">
-      <h4>Engineering Highlights</h4>
-      <ul>
-        <li><b>Batch Merge Engine</b>: Designed an efficient file queue interface capable of merging high quantities of multipage PDF buffers concurrently with minimal memory usage.</li>
-        <li><b>Error Interception</b>: Structured an elegant error dialogue handler that alerts users on corrupt, encrypted, or invalid PDFs without terminating process states.</li>
-      </ul>
-    </td>
-    <td width="35%" valign="middle" align="center" style="background-color: #0b1329; border-radius: 8px;">
-      <p><b>AUTOMATION UTILITY</b></p>
-      <code>Transactional Batch</code><br/>
-      <code>Corrupt File Handling</code><br/><br/>
-      <a href="https://github.com/aniketbiradar-official/PDFMerger" target="_blank">
-        <img src="https://img.shields.io/badge/View_Source-2563EB?style=flat-square&logo=github" alt="GitHub Repo" />
-      </a>
-    </td>
-  </tr>
+<details>
+<summary><strong>▸ PDF Merger Tool</strong> — Utility desktop application</summary>
+
+<br />
+
+<table>
+<tr>
+<td>
+
+**Overview**
+
+Focused desktop utility for batch PDF merging. Built with defensive error handling, operation logging, and a minimal Tkinter interface for reliable document workflows.
+
+<br />
+
+**Engineering Highlights**
+
+- Tkinter GUI with clear file selection and ordering
+- PyPDF2-powered merge engine
+- Batch processing for multi-file operations
+- Structured logging for every merge session
+- Graceful error handling with user-facing feedback
+
+<br />
+
+**Stack** &nbsp; `Python` · `Tkinter` · `PyPDF2` · `Logging`
+
+<br />
+
+<a href="https://github.com/aniketbiradar-official">
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Live_Demo-Coming_Soon-7C3AED?style=for-the-badge" alt="Demo" />
+
+</td>
+</tr>
 </table>
 
-<br />
-
-<div align="center">
-  <img src="assets/divider.svg" alt="Section Divider" width="100%" />
-</div>
+</details>
 
 <br />
 
-## 🧠 Engineering Philosophy
-
-<div align="center">
-  <!-- Custom SVG Philosophy Quote Card -->
-  <img src="assets/philosophy.svg" alt="Aniket's Engineering Philosophy Card" width="100%" />
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
 <br />
 
-To me, writing code is only 30% of the software engineering equation. The remaining 70% relies on system layout, writing clean documentation, planning logging systems for errors, and continuous refactoring. I design software with **maintainability and readability** as first-class citizens. Writing SOLID code ensures the systems I build can expand easily over time without collapsing.
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="28" height="28" alt="" /> Engineering Philosophy
 
 <br />
 
 <div align="center">
-  <img src="assets/divider.svg" alt="Section Divider" width="100%" />
-</div>
+<table>
+<tr>
+<td width="100%" align="center">
 
 <br />
 
-## 📈 GitHub System Activity
-
-<div align="center">
-  <!-- Profile View Badge -->
-  <img src="https://komarev.com/normalise-badge/?username=aniketbiradar-official&color=2563eb&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+### *"Code is read far more often than it is written."*
 
 <br />
 
-<table width="100%">
-  <tr>
-    <td width="55%" valign="top" align="center">
-      <!-- Activity Graph Widget -->
-      <h4>💻 Weekly Contribution Frequency</h4>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketbiradar-official&bg_color=0D1117&color=38BDF8&line=2563EB&point=7C3AED&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
-    </td>
-    <td width="45%" valign="top" align="center">
-      <!-- Snake Animation & Stats Section -->
-      <h4>🐍 Contribution System Sandbox</h4>
-      <div style="background-color: #0d1117; padding: 15px; border-radius: 8px; border: 1px fill #1e293b;">
-        <img src="https://raw.githubusercontent.com/aniketbiradar-official/aniketbiradar-official/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%" />
-        <br/>
-        <p align="center"><i>The green snake eats commits across the calendar matrix.</i></p>
-      </div>
-    </td>
-  </tr>
+I optimize for **readability**, **maintainability**, and **scalability** — not cleverness.
+
+Clean architecture. SOLID thinking. Deliberate refactoring. Documentation that outlives the first deploy.
+
+Software quality is a long-term investment. Every abstraction earns its place. Every dependency is a conscious choice.
+
+<br />
+
+</td>
+</tr>
 </table>
-
-<br />
-
-<div align="center">
-  <img src="assets/divider.svg" alt="Section Divider" width="100%" />
 </div>
 
 <br />
 
-## 📅 Chronological Timeline
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
-A structural overview of my progression from coding foundations to advanced backend engineering.
+<br />
 
-| Year | Phase & Development Milestones | Core Architectural Focus |
-| :--- | :--- | :--- |
-| **2024** | 🚀 **Inception & Foundations**<br/>• Mastered Python basic paradigms<br/>• Developed simple automation CLI tools<br/>• Learnt procedural logic & data flow | Algorithmic Scripting & Flow |
-| **2025** | 💻 **Systems & Database Integration**<br/>• Learnt Advanced Java Web Development (JSP, Servlets)<br/>• Implemented relational schemas with MySQL & SQLite<br/>• Designed 3-tier desktop suites (Expense Tracker)<br/>• Selected to present research at **Aavishkar 2025** | Relational DBs & Layered MVC |
-| **2026** | ⚡ **Scale & Cloud Architecture**<br/>• Expanding stack into Django, FastAPI, & Spring Frameworks<br/>• Studying RESTful API design & System Architecture<br/>• Deploying scalable, containerized architectures with Docker<br/>• Preparing for high-impact software internships | Web APIs, Microservices & Docker |
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="28" height="28" alt="" /> Currently Learning
 
 <br />
 
 <div align="center">
-  <img src="assets/divider.svg" alt="Section Divider" width="100%" />
+
+| Backend Frameworks | Infrastructure | Fundamentals |
+|:------------------:|:--------------:|:------------:|
+| Django | Docker | REST API Design |
+| FastAPI | Deployment | System Design |
+| Spring | Cloud Platforms | |
+
 </div>
 
 <br />
 
-## 🏆 Key Achievements
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
 
-- 🥇 **Distinguished Academic Record**: Maintained an elite current standing cumulative grade point average (CGPA) of **9.55 / 10** in B.Sc. Computer Science.
-- 🎨 **Academic Research Presenter**: Selected for and represented at the District Level Research Festival, *Aavishkar 2025* for Poster Presentation, combining deep academic research with engineering concepts.
-- 🏗️ **Production-Ready Portfolio**: Built and structured multiple scalable repositories containing environment configurations, standardized error-handling interfaces, and database migrations.
+<br />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="28" height="28" alt="" /> GitHub Analytics
 
 <br />
 
 <div align="center">
-  <img src="assets/divider.svg" alt="Section Divider" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketbiradar-official&bg_color=0d1117&color=2563EB&line=38BDF8&point=7C3AED&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
-
-<br />
-
-## 🤝 Open Source & Collective Engineering
-
-I look at GitHub as the world’s biggest shared server. My engineering objective is to contribute to production environments, build modular packages, and practice building with high-grade technical documentation.
-* **Reusable Packages**: Every project I construct is fully documented, containing extensive installation scripts, sample settings, and clean dependency management files.
-* **Continuous Integration**: Learning to utilize modern DevOps workflows (GitHub Actions, Unit Testing suites, formatting rules) to ensure zero failures during package initialization.
-
-If you are looking for a disciplined backend developer Intern who respects system standards, let's build something exceptional together!
 
 <br />
 
 <div align="center">
-  <img src="assets/divider.svg" alt="Section Divider" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aniketbiradar-official&theme=github_dark" width="100%" alt="Profile Summary" />
 </div>
 
 <br />
 
-## 📬 Contact & Professional Verification
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aniketbiradar-official&theme=github_dark" width="48%" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aniketbiradar-official&theme=github_dark&hide=HTML" width="48%" alt="Languages" />
+</div>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📍 Physical Location</h4>
-      <p>India 🇮🇳 • Available for remote and hybrid environments</p>
-      <h4>🎓 Academic Base</h4>
-      <p>B.Sc. Computer Science • Semester IV</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌐 Professional Channels</h4>
-      <ul>
-        <li><b>Portfolio Site:</b> <a href="https://aniketbiradar-official.github.io/portfolio/" target="_blank">aniketbiradar-official.github.io/portfolio/</a></li>
-        <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/aniket-biradar-a6b775371/" target="_blank">LinkedIn Profile</a></li>
-        <li><b>Electronic Mail:</b> <a href="mailto:aniketbiradar.official@gmail.com">aniketbiradar.official@gmail.com</a></li>
-        <li><b>GitHub Profile:</b> <a href="https://github.com/aniketbiradar-official">aniketbiradar-official</a></li>
-      </ul>
-    </td>
-  </tr>
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aniketbiradar-official/aniketbiradar-official/output/github-contribution-grid-snake-dark.svg" alt="Snake" width="100%" />
+</div>
+
+<br />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
+
+<br />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" width="28" height="28" alt="" /> Timeline
+
+<br />
+
+<div align="center">
+
+| Year | Focus |
+|:----:|:------|
+| **2024** | Entered software development · Built foundational Python projects · Established core programming discipline |
+| **2025** | Java web development · Desktop applications · Automation systems · Production-style project architecture |
+| **2026** | Django · FastAPI · Spring · Portfolio engineering · Internship preparation |
+
+</div>
+
+<br />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
+
+<br />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" height="28" alt="" /> Achievements
+
+<br />
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| **9.55 / 10** | **Aavishkar 2025** | **Production Projects** |
+| Academic CGPA | District-Level Research Festival · Poster Presentation | Industry-style architecture & deployment readiness |
+| | | |
+| **Continuous Learning** | | |
+| Frameworks · System Design · Cloud · Open Source | | |
+
+</div>
+
+<br />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
+
+<br />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" width="28" height="28" alt="" /> Open Source
+
+<br />
+
+<div align="center">
+<table>
+<tr>
+<td width="100%">
+
+<br />
+
+GitHub is where I practice engineering in public.
+
+I build **reusable projects** with clean documentation, intentional commit history, and structures that others can extend. Every repository is an opportunity to write code that teaches — both myself and anyone who reads it.
+
+I am preparing to contribute to open-source projects that align with backend systems, developer tooling, and automation. Quality over quantity. Substance over noise.
+
+<br />
+
+</td>
+</tr>
 </table>
+</div>
+
+<br />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="" />
+
+<br />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" width="28" height="28" alt="" /> Contact
 
 <br />
 
 <div align="center">
-  <img src="assets/divider.svg" alt="Section Divider" width="100%" />
+<table>
+<tr>
+<td align="center" width="25%">
+
+**Portfolio**
+
+[aniketbiradar-official.github.io](https://aniketbiradar-official.github.io/portfolio/)
+
+</td>
+<td align="center" width="25%">
+
+**LinkedIn**
+
+[aniket-biradar](https://www.linkedin.com/in/aniket-biradar-a6b775371/)
+
+</td>
+<td align="center" width="25%">
+
+**GitHub**
+
+[aniketbiradar-official](https://github.com/aniketbiradar-official)
+
+</td>
+<td align="center" width="25%">
+
+**Email**
+
+[Get in touch](mailto:aniketbiradar.official@gmail.com)
+
+</td>
+</tr>
+</table>
+</div>
+
+<br />
+<br />
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aniketbiradar-official/aniketbiradar-official/main/assets/wave-bottom.svg" width="100%" alt="" />
 </div>
 
 <br />
 
 <div align="center">
-  <p><i>This engineering journal is compiled with precision using GitHub Markdown and Custom Scalable Vector Graphics.</i></p>
-  <p><b>Thank you for reviewing my work.</b></p>
+
+**Thank you for visiting.**
+
+Built with intention · Markdown + HTML · Designed for clarity
+
+<br />
+
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=400&size=14&duration=4000&pause=1500&color=38BDF8&center=true&vCenter=true&width=500&height=30&lines=Building+software+that+lasts." alt="footer" />
+
 </div>
