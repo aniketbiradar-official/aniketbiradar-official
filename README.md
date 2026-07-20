@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <!-- ANIMATED WAVE HEADER -->
@@ -87,7 +86,7 @@ learning_path:
   - Security best practices
   
 github_philosophy: "Treating every repository as an engineering journal—documenting growth, learning from refactoring, and building reusable solutions for real-world problems"
-```
+
 
 </div>
 
