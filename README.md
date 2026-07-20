@@ -267,7 +267,118 @@ MVC Implementation
 ├── Model (DAO)      → Database entities
 ├── View (JSP)       → Presentation layer
 └── Controller       → Servlet handlers
-<p> <a href="https://github.com/aniketbiradar-official"> <img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p></td> </tr> </table> </details><br><!-- PROJECT 4: PDF Merger --><details> <summary><h3>📄 PDF Merger Tool — Utility Application</h3></summary><table width="95%"> <tr> <td width="60%">
-├── scraper/         # Selenium handlers
-├── utils/           # SHA256, logging
-└── main.py          # Entry point
+<p> <a href="https://github.com/aniketbiradar-official"> <img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p></td> </tr> </table> </details><br>
+<!-- PROJECT 4: PDF Merger -->
+<details>
+<summary><h3>📄 PDF Merger Tool — Desktop PDF Processing Utility</h3></summary>
+
+<table width="95%">
+<tr>
+
+<td width="60%">
+
+### Application Overview
+
+A lightweight desktop application developed in **Python** for efficiently merging multiple PDF documents through an intuitive graphical interface.
+
+Designed with simplicity, reliability, and maintainability in mind, the application demonstrates desktop GUI development, file handling, exception management, and document processing.
+
+### Engineering Highlights
+
+- **Tkinter GUI** — Native desktop interface with intuitive workflow
+- **PyPDF2 Integration** — High-performance PDF merging engine
+- **Automatic File Discovery** — Detects all PDF files within a selected directory
+- **Error Handling** — Robust validation for corrupted or protected PDF files
+- **Logging System** — Generates execution logs for troubleshooting
+- **Cross-Platform Support** — Compatible with Windows, Linux, and macOS
+
+### Software Design
+
+```
+Application Flow
+
+User Selects Folder
+        │
+        ▼
+Scan PDF Files
+        │
+        ▼
+Validate Documents
+        │
+        ▼
+Merge Sequentially
+        │
+        ▼
+Export Combined PDF
+```
+
+### Features
+
+- 📂 Folder-based PDF merging
+- ⚡ Fast document processing
+- 📑 Automatic output generation
+- 🛡️ Graceful exception handling
+- 📝 Execution log generation
+- 🖥️ Beginner-friendly graphical interface
+
+</td>
+
+<td width="40%" valign="top">
+
+### Technology Stack
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PyPDF2-FF6F00?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Desktop_GUI-4CAF50?style=flat-square"/>
+
+</p>
+
+---
+
+### Architecture
+
+```
+pdf_merger/
+│
+├── gui.py
+├── merger.py
+├── logger.py
+├── utils.py
+└── main.py
+```
+
+---
+
+### Engineering Concepts
+
+- Desktop Application Development
+- File System Operations
+- Exception Handling
+- Logging
+- Modular Programming
+- Object-Oriented Design
+
+---
+
+<p align="center">
+
+<a href="https://github.com/aniketbiradar-official/pdf-merger-tool">
+
+<img src="https://img.shields.io/badge/View_Source-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</p>
+
+</td>
+
+</tr>
+</table>
+
+</details>
