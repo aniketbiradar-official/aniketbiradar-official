@@ -1,458 +1,494 @@
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!--                                                                    -->
+<!--                       ANIKET  BIRADAR                              -->
+<!--                   github.com/aniketbiradar-official                -->
+<!--                                                                    -->
+<!--            Crafted with Markdown · HTML · SVG · Care               -->
+<!--                                                                    -->
+<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ─────────────────────────  HERO  ───────────────────────── -->
+<a name="top"></a>
 <div align="center">
-
-<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#2563EB;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#7C3AED;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <rect width="100" height="100" rx="20" fill="url(#grad1)" opacity="0.1"/>
-  <circle cx="50" cy="35" r="12" fill="#2563EB"/>
-  <path d="M 35 55 Q 50 70 65 55" stroke="#38BDF8" stroke-width="3" stroke-linecap="round" fill="none"/>
-  <line x1="30" y1="60" x2="70" y2="60" stroke="#7C3AED" stroke-width="2" opacity="0.5"/>
-</svg>
-
-# **ANIKET BIRADAR**
-
-**Backend Engineer** | **Python Developer** | **Java Developer** | **Automation Specialist**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Building+Production-Grade+Software;Backend+Engineering+%26+Databases;Clean+Architecture+%26+Scalability;Engineering+Mindset+First" alt="Typing animation" />
-
-🇮🇳 **India** | 📚 **B.Sc Computer Science** (4th Semester) | 🎯 **CGPA: 9.55/10**
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Aniket%20Biradar&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Backend%20%C2%B7%20Automation%20%C2%B7%20Systems%20Engineering&descAlignY=60&descSize=16&animation=fadeIn" alt="hero banner" />
 <br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&logo=firefox&logoColor=white)](https://aniketbiradar-official.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-biradar-a6b775371/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/aniketbiradar-official)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aniketbiradar1989@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=aniketbiradar-official&color=2563EB&style=flat-square&label=PROFILE+VIEWS)
-
+<a href="https://github.com/aniketbiradar-official">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=700&color=38BDF8&center=true&vCenter=true&multiline=false&width=760&height=42&lines=Python+Developer+%E2%80%A2+Java+Developer;Backend+Engineer+%E2%80%A2+Automation+Engineer;Full-Stack+Learner+%E2%80%A2+Systems+Thinker;Building+production-grade+software+by+hand" alt="typing" />
+</a>
+<br/><br/>
+<!-- Location & Education chips -->
+<p>
+  <img src="https://img.shields.io/badge/India-%F0%9F%87%AE%F0%9F%87%B3-0b1220?style=for-the-badge&labelColor=0b1220&color=0b1220" alt="location"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/B.Sc%20Computer%20Science-Semester%20IV-2563EB?style=for-the-badge&labelColor=0b1220&color=2563EB" alt="education"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CGPA-9.55%20%2F%2010-22C55E?style=for-the-badge&labelColor=0b1220&color=22C55E" alt="cgpa"/>
+</p>
+<!-- Primary actions -->
+<p>
+  <a href="https://aniketbiradar-official.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/%E2%9F%B6%20Portfolio-7C3AED?style=for-the-badge&labelColor=0b1220" alt="portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aniket-biradar-a6b775371/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1220" alt="linkedin"/>
+  </a>
+  <a href="https://github.com/aniketbiradar-official">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1220" alt="github"/>
+  </a>
+  <a href="mailto:aniketbiradar.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1220" alt="email"/>
+  </a>
+</p>
+<a href="https://github.com/aniketbiradar-official">
+  <img src="https://komarev.com/ghpvc/?username=aniketbiradar-official&label=Profile%20views&color=2563EB&style=for-the-badge" alt="profile views"/>
+</a>
 </div>
-
----
-
+<br/>
+<!-- Elegant divider -->
 <div align="center">
-
-## **About**
-
+  <img src="https://raw.githubusercontent.com/BrunoSSantana/BrunoSSantana/main/assets/rainbow-superthin.webp" width="100%" alt="divider" onerror="this.style.display='none'"/>
 </div>
-
+<br/>
+<!-- ─────────────────────────  ABOUT  ───────────────────────── -->
 <div align="center">
-
-I engineer **production-grade software** with a focus on **clean architecture**, **scalability**, and **maintainability**. My approach blends fundamental computer science principles with real-world engineering practices—treating every project as if it will serve thousands of users.
-
-**What drives me:**
-- Building **backend systems** that scale
-- Writing **readable, maintainable code**
-- Mastering **database-driven architectures**
-- Learning through **shipping real projects**
-- Continuous refinement of **engineering fundamentals**
-
-GitHub is my engineering journal. Every commit represents deliberate practice.
-
+## &nbsp;⟢&nbsp; A Quiet Introduction &nbsp;⟣&nbsp;
 </div>
-
----
-
-<div align="center">
-
-## **Technology Stack**
-
-</div>
-
-<table>
+<table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
-
-### **Languages**
-```
-Python      ████████████░░  90%
-Java        ███████░░░░░░░  65%
-C/C++       ██████░░░░░░░░  55%
-JavaScript  █████░░░░░░░░░  50%
-SQL         ███████░░░░░░░  70%
-```
-
-### **Backend Frameworks**
-- **Django** – Advanced ORM, Signals
-- **FastAPI** – Async, Type Safety
-- **Flask** – Microservices
-- **JSP/Servlets** – Enterprise Web
-- **Spring** – Currently Learning
-
+<td width="55%" valign="top">
+<br/>
+I design and ship **production-oriented software** — the kind that has
+structure, logs, configuration, and a folder tree that survives
+scale. My focus is on **backend engineering**, **desktop applications**,
+and **automation systems** built around **database-driven** cores and
+**clean, layered architecture**.
+I treat GitHub as an **engineering journal**. Every repository is a
+small experiment in doing things properly — separation of concerns,
+readable code, sensible abstractions, and documentation that respects
+the reader's time.
+I learn by **building real software**, refactoring when it hurts, and
+holding an **engineering mindset** over a "student mindset". The goal
+isn't to finish projects — the goal is to make each one better than
+the last.
+<br/>
 </td>
-<td width="50%" valign="top">
-
-### **Databases**
-- **MySQL** – Relational, Optimization
-- **SQLite** – Embedded, Desktop Apps
-- **MongoDB** – Document, Atlas Cloud
-
-### **Core Tools & Libraries**
-- **Selenium** – Web Automation
-- **NumPy/Pandas** – Data Processing
-- **Tkinter** – Desktop GUIs
-- **PyPDF2** – PDF Manipulation
-- **PyInstaller** – Distribution
-
+<td width="45%" valign="top" align="center">
+<br/>
+```yaml
+◇ Focus       : Backend · Automation · Systems
+◇ Style       : Layered · Configurable · Logged
+◇ Currently   : Django · FastAPI · Spring
+◇ Mindset     : Ship it. Then make it durable.
+◇ Timezone    : Asia / Kolkata (UTC +5:30)
+◇ Open to     : Internships · Collaboration
+```
 </td>
 </tr>
 </table>
-
-### **Engineering Concepts**
-<div>
-
-| Architecture | Patterns | Databases | DevOps |
-|:---:|:---:|:---:|:---:|
-| **MVC** | **REST APIs** | **Normalization** | **Git/GitHub** |
-| **Layered** | **OOP** | **Indexing** | **Configuration** |
-| **Clean Code** | **SOLID** | **Transactions** | **Logging** |
-| **Separation of Concerns** | **Exception Handling** | **Query Optimization** | **Environment Mgmt** |
-
-</div>
-
----
-
+<br/>
 <div align="center">
-
-## **Featured Projects**
-
+<img src="https://raw.githubusercontent.com/aniketbiradar-official/aniketbiradar-official/output/github-contribution-grid-snake-dark.svg" width="100%" onerror="this.src='https://raw.githubusercontent.com/Platane/snkos/output/github-contribution-grid-snake-dark.svg'" alt="snake animation"/>
 </div>
-
+<br/>
+<!-- ─────────────────────────  TECH STACK  ───────────────────────── -->
 <div align="center">
-
-### **1. ImageScraper** – Industrial-Grade Web Scraping
-<sub>Python • Selenium • MongoDB Atlas • Architecture</sub>
-
+## &nbsp;⟢&nbsp; Engineering Toolbox &nbsp;⟣&nbsp;
+<sub><i>Tools I actually use, arranged by intent — not by badge count.</i></sub>
 </div>
-
-<details open>
-<summary><strong>Project Overview</strong></summary>
-
-**Production-ready web scraper** with enterprise architecture, cloud database integration, and deployment considerations.
-
-**Engineering Highlights:**
-- 🏗️ **Layered Architecture** – Separation of concerns across scraper, database, and CLI layers
-- 🔗 **Selenium Automation** – Robust element detection with explicit waits
-- ☁️ **MongoDB Atlas** – Cloud-native document database with GridFS for images
-- 🔐 **SHA256 Deduplication** – Content hash-based duplicate prevention
-- ⚙️ **Configuration Management** – Environment variables, YAML configs, profiles
-- 📊 **Advanced Logging** – Structured logging with file rotation
-- 🖥️ **CLI Interface** – Argparse-based command-line tool
-- 📦 **Production Folder Structure** – Organized, scalable layout
-
-**Key Technical Decisions:**
-```
-Config → Environment Manager → Scraper Engine → Storage Layer → CLI
-                                      ↓
-                          Selenium WebDriver Pool
-                          Error Recovery & Retry Logic
-```
-
-[![View Repository](https://img.shields.io/badge/GitHub-ImageScraper-2563EB?style=flat-square&logo=github)](https://github.com/aniketbiradar-official)
-
-</details>
-
----
-
-<div align="center">
-
-### **2. Personal Expense Tracker** – Desktop Application Engineering
-<sub>Python • Tkinter • SQLite • Analytics</sub>
-
-</div>
-
-<details open>
-<summary><strong>Project Overview</strong></summary>
-
-**Full-featured desktop application** demonstrating UI/UX design, data visualization, and application distribution.
-
-**Engineering Highlights:**
-- 🎨 **Modern Tkinter UI** – Dark mode, responsive layouts, professional styling
-- 💾 **SQLite Database** – Efficient local storage with proper schema design
-- 📈 **Analytics Engine** – Charts, trends, spending patterns
-- 📊 **Visual Reports** – Matplotlib integration for data visualization
-- 💰 **Budgeting Features** – Category-based limits, alerts, forecasting
-- 📤 **CSV Export** – Data portability, backup functionality
-- 📦 **PyInstaller Distribution** – Standalone executable with installer
-- 🏗️ **Layered Architecture** – Models, Controllers, Views separation
-
-**Distribution Pipeline:**
-```
-Source Code → PyInstaller → Executable → NSIS Installer → .exe Package
-```
-
-[![View Repository](https://img.shields.io/badge/GitHub-ExpenseTracker-2563EB?style=flat-square&logo=github)](https://github.com/aniketbiradar-official)
-
-</details>
-
----
-
-<div align="center">
-
-### **3. Library Management System** – Enterprise Web Application
-<sub>Java • JSP • Servlets • MVC • MySQL</sub>
-
-</div>
-
-<details open>
-<summary><strong>Project Overview</strong></summary>
-
-**Full-stack web application** implementing enterprise patterns and security best practices.
-
-**Engineering Highlights:**
-- 🏛️ **MVC Architecture** – Strict separation of Model, View, Controller
-- 🔐 **Authentication & Authorization** – Session management, role-based access control
-- 📚 **CRUD Operations** – Complete book and member lifecycle management
-- 👥 **Role-Based Access** – Admin, Librarian, Member privilege levels
-- 🗄️ **MySQL Integration** – Relational schema, proper indexing
-- 🛡️ **Security Measures** – Input validation, SQL injection prevention
-- 📋 **Transaction Management** – ACID compliance for critical operations
-- 📊 **Admin Dashboard** – Analytics and system monitoring
-
-**System Design:**
-```
-JSP (Views) ↔ Servlets (Controllers) ↔ DAO (Models) ↔ MySQL (Data)
-                                              ↑
-                                    Session Management
-```
-
-[![View Repository](https://img.shields.io/badge/GitHub-LibrarySystem-2563EB?style=flat-square&logo=github)](https://github.com/aniketbiradar-official)
-
-</details>
-
----
-
-<div align="center">
-
-### **4. PDF Merger Tool** – Utility Application
-<sub>Python • Tkinter • PyPDF2 • Automation</sub>
-
-</div>
-
-<details open>
-<summary><strong>Project Overview</strong></summary>
-
-**Efficient PDF manipulation tool** showcasing exception handling and user experience design.
-
-**Engineering Highlights:**
-- 🎯 **Intuitive GUI** – Drag-and-drop file handling
-- 📄 **PyPDF2 Integration** – Robust PDF parsing and merging
-- 📝 **Batch Processing** – Multiple file operations
-- ⚠️ **Comprehensive Error Handling** – User-friendly error messages
-- 📊 **Logging System** – Operation tracking and debugging
-- ⏱️ **Performance Optimization** – Efficient memory management
-- 🎨 **Progress Indication** – User feedback during operations
-
-[![View Repository](https://img.shields.io/badge/GitHub-PDFMerger-2563EB?style=flat-square&logo=github)](https://github.com/aniketbiradar-official)
-
-</details>
-
----
-
-<div align="center">
-
-## **Engineering Philosophy**
-
-</div>
-
-> ### **"Code is read far more often than it is written."**
->
-> Every line of code I write prioritizes:
-> - **Readability** – Future maintainers (including future me) come first
-> - **Maintainability** – Clear intent, minimal cognitive load
-> - **Scalability** – Architecture that grows with requirements
-> - **Documentation** – Self-documenting code + meaningful comments
-> - **Testing** – Confidence in refactoring and evolution
->
-> I believe in **SOLID principles**, **clean architecture**, and the discipline of writing code that will be professionally maintained for years—not just code that works today.
-
----
-
-<div align="center">
-
-## **Current Learning Path**
-
-</div>
-
-<div align="center">
-
-| Phase | Focus | Status |
-|:---:|:---|:---:|
-| **Q1 2025** | Advanced Django | 🟢 In Progress |
-| **Q1 2025** | FastAPI & Async | 🟢 In Progress |
-| **Q2 2025** | Spring Framework | 🟡 Planned |
-| **Q2 2025** | Docker & Containers | 🟡 Planned |
-| **Q3 2025** | REST API Design | 🟡 Planned |
-| **Q3 2025** | System Design Fundamentals | 🟡 Planned |
-| **Q4 2025** | Cloud Deployment (AWS/GCP) | 🟡 Planned |
-
-</div>
-
----
-
-<div align="center">
-
-## **GitHub Activity**
-
-</div>
-
-<div align="center">
-
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=aniketbiradar-official&theme=github-dark&hide_border=true&custom_title=GitHub%20Activity%20Graph)
-
-</div>
-
-<div align="center">
-
-![Snake Animation](https://github.com/aniketbiradar-official/aniketbiradar-official/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
-## **Professional Timeline**
-
-</div>
-
-<div>
-
-```
-2024 ─────────────────────────────────────────────────
- ├─ Started Software Development Journey
- ├─ Built Python Projects with Architecture Focus
- ├─ Learned Web Scraping & Database Integration
- └─ Established GitHub Engineering Practices
-     
-2025 ─────────────────────────────────────────────────
- ├─ Java Web Development (JSP/Servlets)
- ├─ Desktop Application with Tkinter
- ├─ Production-Style Project Architecture
- ├─ Advanced Backend Concepts
- └─ Portfolio Development
-     
-2026 ─────────────────────────────────────────────────
- ├─ Django & FastAPI Mastery
- ├─ Spring Framework Learning
- ├─ Cloud Deployment
- ├─ Open Source Contributions
- └─ Internship & Professional Development
-```
-
-</div>
-
----
-
-<div align="center">
-
-## **Achievements & Recognition**
-
-</div>
-
-<table>
+<br/>
+<table align="center" width="100%">
 <tr>
-<td align="center" width="33%">
-
-### **Academic Excellence**
-```
-CGPA: 9.55 / 10
-Computer Science
-Consistent Performance
-```
-
+<td valign="top" width="33%">
+#### &nbsp;🅛&nbsp;&nbsp;Languages
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js" alt="languages"/>
+</p>
+<sub>Python · Java · C · C++ · JavaScript</sub>
 </td>
-<td align="center" width="33%">
-
-### **Research & Innovation**
-```
-Aavishkar 2025
-District Level
-Poster Presentation
-```
-
+<td valign="top" width="33%">
+#### &nbsp;🅑&nbsp;&nbsp;Backend
+<p align="center">
+<img src="https://skillicons.dev/icons?i=django,fastapi,flask,java,spring" alt="backend"/>
+</p>
+<sub>Django · FastAPI · Flask · JSP · Servlets · Spring <i>(learning)</i></sub>
 </td>
-<td align="center" width="33%">
-
-### **Engineering Practice**
-```
-Production Architecture
-Clean Code
-Real-World Projects
-```
-
+<td valign="top" width="33%">
+#### &nbsp;🅓&nbsp;&nbsp;Databases
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" alt="databases"/>
+</p>
+<sub>MySQL · SQLite · MongoDB (Atlas + GridFS)</sub>
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+#### &nbsp;🅛&nbsp;&nbsp;Libraries
+<p align="center">
+<img src="https://skillicons.dev/icons?i=py,selenium" alt="libraries"/>
+</p>
+<sub>NumPy · Pandas · Selenium · Tkinter · PyPDF2</sub>
+</td>
+<td valign="top" width="33%">
+#### &nbsp;🅣&nbsp;&nbsp;Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman" alt="tools"/>
+</p>
+<sub>Git · GitHub · VS Code · PyCharm · Postman</sub>
+</td>
+<td valign="top" width="33%">
+#### &nbsp;🅒&nbsp;&nbsp;Concepts
+<p align="center">
+<img src="https://skillicons.dev/icons?i=idea,linux,md" alt="concepts"/>
+</p>
+<sub>MVC · REST · OOP · DSA · SQL · Logging · Exception Handling · Config · Layered Architecture</sub>
 </td>
 </tr>
 </table>
-
----
-
+<br/>
+<!-- ─────────────────────────  FEATURED PROJECTS  ───────────────────────── -->
 <div align="center">
-
-## **Open Source & Community**
-
+## &nbsp;⟢&nbsp; Featured Work &nbsp;⟣&nbsp;
+<sub><i>Four projects that reflect how I think about software.</i></sub>
 </div>
-
+<br/>
+<!-- Project 1 -->
+<table align="center" width="100%">
+<tr>
+<td width="12%" align="center" valign="middle">
+<h1>🕸️</h1>
+</td>
+<td width="88%" valign="top">
+### ImageScraper &nbsp;·&nbsp; <sub>Industry-grade scraping pipeline</sub>
+A modular, cloud-ready scraping engine that pulls, deduplicates and
+persists images through a proper ingestion pipeline — not a script.
+Built around **Selenium**, streamed into **MongoDB Atlas + GridFS**,
+with **SHA-256 deduplication**, **structured logging**, a **CLI
+interface**, and a **production folder structure** driven entirely by
+**environment variables** and a central **configuration layer**.
+**Architecture**  &nbsp;`config → driver → scraper → dedupe → storage → logger`
+<sub>
+<b>Stack</b>&nbsp;&nbsp;Python · Selenium · MongoDB Atlas · GridFS · dotenv · logging
+</sub>
+<sub>
+<b>Highlights</b>&nbsp;&nbsp;SHA-256 dedupe · env-driven config · cloud storage · CLI-first · fail-safe logging
+</sub>
+<p>
+  <a href="https://github.com/aniketbiradar-official"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Live%20Demo-Coming%20Soon-38BDF8?style=flat-square"/>
+</p>
+</td>
+</tr>
+</table>
+<!-- Project 2 -->
+<table align="center" width="100%">
+<tr>
+<td width="12%" align="center" valign="middle">
+<h1>💸</h1>
+</td>
+<td width="88%" valign="top">
+### Personal Expense Tracker &nbsp;·&nbsp; <sub>Desktop finance suite</sub>
+A native **desktop application** built with **Tkinter** and **SQLite**,
+designed like a small product rather than a college assignment.
+It ships with **analytics dashboards**, **charts**, a **dark mode**,
+**budgeting**, **CSV export**, and a **PyInstaller** build that
+produces a real **Windows installer**. Internally organized around a
+clean **layered architecture** — UI, service, repository, model.
+**Architecture**  &nbsp;`view → controller → service → repository → sqlite`
+<sub>
+<b>Stack</b>&nbsp;&nbsp;Python · Tkinter · SQLite · Matplotlib · PyInstaller
+</sub>
+<sub>
+<b>Highlights</b>&nbsp;&nbsp;Dark mode UI · monthly analytics · budgeting · CSV export · installer build
+</sub>
+<p>
+  <a href="https://github.com/aniketbiradar-official"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Live%20Demo-Coming%20Soon-38BDF8?style=flat-square"/>
+</p>
+</td>
+</tr>
+</table>
+<!-- Project 3 -->
+<table align="center" width="100%">
+<tr>
+<td width="12%" align="center" valign="middle">
+<h1>📚</h1>
+</td>
+<td width="88%" valign="top">
+### Library Management System &nbsp;·&nbsp; <sub>Java web application</sub>
+A classical **Java web application** structured around the **MVC**
+pattern, powered by **JSP + Servlets** on top of a **MySQL** backend.
+Implements **authentication**, **role-based access control**, and
+full **CRUD** for books, members and transactions — with clean
+separation between servlets, DAOs, models and JSP views.
+**Architecture**  &nbsp;`jsp view → servlet controller → DAO → mysql`
+<sub>
+<b>Stack</b>&nbsp;&nbsp;Java · JSP · Servlets · JDBC · MySQL · Tomcat
+</sub>
+<sub>
+<b>Highlights</b>&nbsp;&nbsp;MVC discipline · session-based auth · role-based access · normalized schema
+</sub>
+<p>
+  <a href="https://github.com/aniketbiradar-official"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Live%20Demo-Coming%20Soon-38BDF8?style=flat-square"/>
+</p>
+</td>
+</tr>
+</table>
+<!-- Project 4 -->
+<table align="center" width="100%">
+<tr>
+<td width="12%" align="center" valign="middle">
+<h1>📄</h1>
+</td>
+<td width="88%" valign="top">
+### PDF Merger Tool &nbsp;·&nbsp; <sub>Focused desktop utility</sub>
+A small, well-behaved desktop utility for merging PDFs in batches.
+Built on **Tkinter** and **PyPDF2**, with **structured logging**,
+**graceful error handling**, and a workflow tuned for real usage —
+drag, order, merge, done. Small surface area, high polish.
+**Architecture**  &nbsp;`tkinter ui → merger service → pypdf2 → filesystem`
+<sub>
+<b>Stack</b>&nbsp;&nbsp;Python · Tkinter · PyPDF2 · logging
+</sub>
+<sub>
+<b>Highlights</b>&nbsp;&nbsp;Batch merging · reorderable inputs · robust error handling · quiet UX
+</sub>
+<p>
+  <a href="https://github.com/aniketbiradar-official"><img src="https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Live%20Demo-Coming%20Soon-38BDF8?style=flat-square"/>
+</p>
+</td>
+</tr>
+</table>
+<br/>
+<!-- ─────────────────────────  PHILOSOPHY  ───────────────────────── -->
 <div align="center">
-
-My GitHub repository serves as a **living portfolio** and **engineering reference**.
-
-Each project demonstrates:
-- 📐 **Thoughtful Architecture** – Not just functional, but well-designed
-- 📖 **Clear Documentation** – README files that explain design decisions
-- 🔄 **Best Practices** – Version control discipline, meaningful commits
-- 🧪 **Production Mindset** – Error handling, logging, configuration management
-
-I'm committed to building **reusable, well-documented projects** that could serve as references for the community. Future open-source contributions will maintain these standards.
-
+## &nbsp;⟢&nbsp; Engineering Philosophy &nbsp;⟣&nbsp;
+<br/>
+<table align="center">
+<tr>
+<td align="center">
+<blockquote>
+<h3><i>“Code is read far more often than it is written.<br/>Optimize for the reader, not the author.”</i></h3>
+</blockquote>
+<br/>
+<table>
+<tr>
+<td align="center" width="25%"><b>Readability</b><br/><sub>clarity over cleverness</sub></td>
+<td align="center" width="25%"><b>Maintainability</b><br/><sub>change without fear</sub></td>
+<td align="center" width="25%"><b>Scalability</b><br/><sub>grow without rewrite</sub></td>
+<td align="center" width="25%"><b>Architecture</b><br/><sub>layered, decoupled</sub></td>
+</tr>
+<tr>
+<td align="center"><b>SOLID</b><br/><sub>principled boundaries</sub></td>
+<td align="center"><b>Refactoring</b><br/><sub>continuous improvement</sub></td>
+<td align="center"><b>Documentation</b><br/><sub>respect the reader</sub></td>
+<td align="center"><b>Longevity</b><br/><sub>quality that ages well</sub></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
 </div>
-
----
-
+<br/>
+<!-- ─────────────────────────  LEARNING ROADMAP  ───────────────────────── -->
 <div align="center">
-
-## **Connect With Me**
-
+## &nbsp;⟢&nbsp; Currently Learning &nbsp;⟣&nbsp;
 </div>
-
+<br/>
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+#### &nbsp;◐&nbsp;&nbsp;In Motion
+```diff
++ Django          ▓▓▓▓▓▓▓▓░░  80%
++ FastAPI         ▓▓▓▓▓▓▓░░░  70%
++ REST APIs       ▓▓▓▓▓▓▓▓▓░  90%
++ Spring          ▓▓▓░░░░░░░  30%
+```
+</td>
+<td width="50%" valign="top">
+#### &nbsp;◑&nbsp;&nbsp;On the Horizon
+```diff
+! Docker          ▓▓▓▓░░░░░░  40%
+! System Design   ▓▓▓▓▓░░░░░  50%
+! Deployment      ▓▓▓▓░░░░░░  40%
+! Cloud (AWS)     ▓▓░░░░░░░░  20%
+```
+</td>
+</tr>
+</table>
+<br/>
+<!-- ─────────────────────────  GITHUB METRICS  ───────────────────────── -->
 <div align="center">
-
-**Let's discuss backend engineering, software architecture, and building production-grade systems.**
-
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Work-2563EB?style=for-the-badge&logoColor=white)](https://aniketbiradar-official.github.io/portfolio/)
-
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/aniket-biradar-a6b775371/)
-
-[![GitHub](https://img.shields.io/badge/🔧%20GitHub-Follow-181717?style=for-the-badge&logoColor=white)](https://github.com/aniketbiradar-official)
-
-[![Email](https://img.shields.io/badge/📧%20Email-Send%20Message-EA4335?style=for-the-badge&logoColor=white)](mailto:aniketbiradar1989@gmail.com)
-
+## &nbsp;⟢&nbsp; GitHub in Numbers &nbsp;⟣&nbsp;
+<br/>
+<a href="https://github.com/aniketbiradar-official">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=aniketbiradar-official&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=38BDF8&icon_color=7C3AED&text_color=c9d1d9&bg_color=0d1117" alt="stats"/>
+</a>
+<a href="https://github.com/aniketbiradar-official">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketbiradar-official&layout=compact&hide_border=true&title_color=38BDF8&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="top languages"/>
+</a>
+<br/><br/>
+<a href="https://github.com/aniketbiradar-official">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketbiradar-official&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=7C3AED&fire=2563EB&currStreakLabel=38BDF8" alt="streak"/>
+</a>
+<br/><br/>
+<a href="https://github.com/aniketbiradar-official">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketbiradar-official&bg_color=0d1117&color=38BDF8&line=7C3AED&point=ffffff&area=true&hide_border=true" alt="activity graph" width="98%"/>
+</a>
 </div>
-
----
-
+<br/>
+<!-- ─────────────────────────  TIMELINE  ───────────────────────── -->
 <div align="center">
-
-<svg width="100%" height="60" viewBox="0 0 1000 60" fill="none" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
-  <defs>
-    <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#2563EB;stop-opacity:0.1" />
-      <stop offset="50%" style="stop-color:#38BDF8;stop-opacity:0.1" />
-      <stop offset="100%" style="stop-color:#7C3AED;stop-opacity:0.1" />
-    </linearGradient>
-  </defs>
-  <path d="M0,30 Q250,10 500,30 T1000,30 L1000,60 L0,60 Z" fill="url(#waveGrad)"/>
-  <path d="M0,35 Q250,15 500,35 T1000,35" stroke="#2563EB" stroke-width="2" fill="none" opacity="0.3"/>
-</svg>
-
-### **Crafted with precision. Built for impact.**
-
-Constantly learning. Always improving. Engineering mindset first.
-
-**Last Updated:** January 2025
-
+## &nbsp;⟢&nbsp; The Journey So Far &nbsp;⟣&nbsp;
+</div>
+<br/>
+<table align="center" width="100%">
+<tr>
+<td width="15%" align="center" valign="top">
+<br/>
+<h3>2024</h3>
+<sub>The Foundation</sub>
+</td>
+<td width="85%" valign="top">
+<br/>
+> **Started software development.** &nbsp;First serious dive into Python.
+> Built a series of small projects to internalize syntax, control flow
+> and standard-library patterns — the base layer everything else rests on.
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<br/>
+<h3>2025</h3>
+<sub>The Craft</sub>
+</td>
+<td valign="top">
+<br/>
+> **Java web development.** &nbsp;Built desktop applications, automation
+> pipelines, and moved from *"getting it to run"* to *"structuring
+> it properly"*. First real production-style project architectures —
+> config, logging, layered code.
+</td>
+</tr>
+<tr>
+<td align="center" valign="top">
+<br/>
+<h3>2026</h3>
+<sub>The Depth</sub>
+</td>
+<td valign="top">
+<br/>
+> **Learning Django, FastAPI and Spring.** &nbsp;Building a portfolio
+> of real, deployable systems. Preparing for internships and stepping
+> deeper into backend architecture, deployment, and cloud fundamentals.
+</td>
+</tr>
+</table>
+<br/>
+<!-- ─────────────────────────  ACHIEVEMENTS  ───────────────────────── -->
+<div align="center">
+## &nbsp;⟢&nbsp; Milestones &nbsp;⟣&nbsp;
+<br/>
+<table>
+<tr>
+<td align="center" width="25%">
+<h2>🎓</h2>
+<b>9.55 / 10</b><br/>
+<sub>Current CGPA<br/>B.Sc Computer Science</sub>
+</td>
+<td align="center" width="25%">
+<h2>🔬</h2>
+<b>Aavishkar 2025</b><br/>
+<sub>District-Level Research<br/>Poster Presentation</sub>
+</td>
+<td align="center" width="25%">
+<h2>🏗️</h2>
+<b>Production-Style</b><br/>
+<sub>Architected projects with<br/>real engineering discipline</sub>
+</td>
+<td align="center" width="25%">
+<h2>📈</h2>
+<b>Always Shipping</b><br/>
+<sub>Continuous learning,<br/>continuous refactoring</sub>
+</td>
+</tr>
+</table>
+</div>
+<br/>
+<!-- ─────────────────────────  OPEN SOURCE  ───────────────────────── -->
+<div align="center">
+## &nbsp;⟢&nbsp; On Open Source &nbsp;⟣&nbsp;
+</div>
+<br/>
+<table align="center" width="100%">
+<tr>
+<td valign="top">
+<br/>
+I treat GitHub as more than storage — it's where I **learn in public**.
+Every repository is designed to be **reusable**, **readable**, and
+**properly documented**, so that the next person (often future me)
+can pick it up without archaeological effort.
+The next chapter is **contributing outward**: filing meaningful
+issues, sending focused pull requests, and eventually maintaining
+small libraries around the patterns I use most — clean scraping
+pipelines, layered desktop apps, and configuration-driven Python
+services.
+<br/>
+<div align="center">
+<img src="https://img.shields.io/badge/Learning%20in%20Public-2563EB?style=flat-square&labelColor=0b1220"/> &nbsp;
+<img src="https://img.shields.io/badge/Reusable%20Repos-38BDF8?style=flat-square&labelColor=0b1220"/> &nbsp;
+<img src="https://img.shields.io/badge/Clean%20Docs-7C3AED?style=flat-square&labelColor=0b1220"/> &nbsp;
+<img src="https://img.shields.io/badge/Future%20Contributor-22C55E?style=flat-square&labelColor=0b1220"/>
+</div>
+</td>
+</tr>
+</table>
+<br/>
+<!-- ─────────────────────────  CONTACT  ───────────────────────── -->
+<div align="center">
+## &nbsp;⟢&nbsp; Let's Build Something &nbsp;⟣&nbsp;
+<br/>
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://aniketbiradar-official.github.io/portfolio/">
+<img src="https://img.shields.io/badge/-Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0b1220"/>
+</a>
+<br/><sub>My work, in one place</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://www.linkedin.com/in/aniket-biradar-a6b775371/">
+<img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0b1220"/>
+</a>
+<br/><sub>Professional network</sub>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/aniketbiradar-official">
+<img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0b1220"/>
+</a>
+<br/><sub>Code &amp; commits</sub>
+</td>
+<td align="center" width="25%">
+<a href="mailto:aniketbiradar.dev@gmail.com">
+<img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0b1220"/>
+</a>
+<br/><sub>Direct message</sub>
+</td>
+</tr>
+</table>
+<br/>
+<sub><i>Open to internships, collaborations, and long conversations about clean architecture.</i></sub>
+</div>
+<br/><br/>
+<!-- ─────────────────────────  FOOTER  ───────────────────────── -->
+<div align="center">
+<a href="#top"><img src="https://img.shields.io/badge/%E2%86%91%20Back%20to%20top-0b1220?style=flat-square&labelColor=0b1220&color=2563EB"/></a>
+</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=footer&text=Thank%20you%20for%20visiting&fontSize=20&fontColor=ffffff&fontAlignY=70&animation=fadeIn" alt="footer wave"/>
+<div align="center">
+<sub>
+Designed &amp; hand-crafted with <b>Markdown</b> + <b>HTML</b> + <b>SVG</b> &nbsp;·&nbsp;
+© 2026 Aniket Biradar
+</sub>
 </div>
