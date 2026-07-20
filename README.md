@@ -13,11 +13,11 @@
   
   <!-- Name with Gradient Effect -->
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=48&duration=1&pause=1000&color=2563EB&center=true&vCenter=true&repeat=false&width=500&height=60&lines=ANIKET+BIRADAR" alt="Aniket Biradar" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=48&pause=999999&color=2563EB&center=true&vCenter=true&repeat=false&width=600&height=60&lines=ANIKET+BIRADAR" alt="Aniket Biradar"/>
   </h1>
   
   <!-- Animated Typing Subtitle -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=450&lines=Python+Developer;Java+Developer;Backend+Engineer;Automation+Specialist;Full+Stack+Learner" alt="Typing Animation" />
+ <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=550&lines=Python+Developer;Java+Developer;Backend+Engineer;Automation+Specialist;Desktop+Application+Developer" alt="Typing Animation"/>
   
   <!-- Location Badge -->
   <p>
@@ -45,7 +45,7 @@
 </div>
 
 <!-- SVG Divider -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:38BDF8,100:7C3AED&height=2&section=footer" width="100%"/>
 
 <!-- ABOUT SECTION -->
 <details open>
