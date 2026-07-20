@@ -1,402 +1,292 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/v3/api.svg?type=wave&color=2563EB&height=240&section=header&text=ANIKET%20BIRADAR&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Building%20Robust%20Systems%20%7C%20Backend%20Engineer">
-    <img src="https://capsule-render.vercel.app/v3/api.svg?type=wave&color=2563EB&height=240&section=header&text=ANIKET%20BIRADAR&fontSize=42&fontColor=000000&animation=fadeIn&desc=Building%20Robust%20Systems%20%7C%20Backend%20Engineer" alt="Hero Banner" width="100%">
-  </picture>
-</div>
+<!-- ============================= HERO SECTION ============================= -->
 
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=200&section=header&text=ANIKET%20BIRADAR&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=700&size=28&pause=800&color=38BDF8&center=true&vCenter=true&width=720&lines=Python+Developer;Java+Developer;Backend+Engineer;Automation+Enthusiast;Full+Stack+Learner" alt="Typing SVG" />
-</div>
+<h1 align="center">ANIKET BIRADAR</h1>
 
-<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Python+Developer;Java+Developer;Backend+Developer;Full+Stack+Learner;Automation+Enthusiast" />
+</p>
 
-<div align="center">
+<p align="center">
+  <b>“Engineering practical software that solves real-world problems.”</b>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=aniketbiradar-official&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge&logo=star)
-[![GitHub Followers](https://img.shields.io/github/followers/aniketbiradar-official?color=38BDF8&style=for-the-badge&logo=github&logoColor=white)](https://github.com/aniketbiradar-official)
-[![Stars](https://img.shields.io/github/stars/aniketbiradar-official?color=7C3AED&style=for-the-badge&logo=star)](https://github.com/aniketbiradar-official)
-
-</div>
-
-<div align="center">
-
-**`🌍 Location:` India 🇮🇳** &nbsp;&nbsp;&nbsp; **`🎓 Education:` B.Sc Computer Science • 4th Semester** &nbsp;&nbsp;&nbsp; **`📊 CGPA:` 9.55 / 10.0**
-
-</div>
+<p align="center">
+  📍 India 🇮🇳 &nbsp; • &nbsp; 🎓 B.Sc Computer Science (4th Semester) &nbsp; • &nbsp; 🏆 CGPA: <b>9.55 / 10</b>
+</p>
 
 ---
 
-<div align="center">
-  <h2>👋 About Me</h2>
-</div>
+<!-- ============================= SOCIAL SECTION ============================= -->
 
-<div align="center">
-  <table style="width: 85%; border: none; background: #0d1117; border-radius: 16px; padding: 24px; margin: 20px auto;">
-    <tr>
-      <td style="padding: 28px; text-align: left; color: #c9d1d9;">
-        <p>I am a results-driven software engineer with a passion for building practical, production-grade systems. My expertise lies in backend architecture, automation tooling, desktop applications, and database-driven solutions.</p>
-        <p>I believe in <strong>clean architecture</strong>, <strong>maintainable code</strong>, and <strong>real-world impact</strong>. Every project I undertake is treated as a professional engineering exercise — complete with logging, configuration management, error handling, testing considerations, and documentation.</p>
-        <p>This GitHub profile serves as my engineering journal — a living record of continuous learning, architectural decisions, and progressively more sophisticated systems.</p>
-        
-        <div style="display: flex; flex-wrap: wrap; gap: 12px; margin-top: 24px; justify-content: center;">
-          <span style="background: #1f2937; color: #38BDF8; padding: 6px 16px; border-radius: 9999px; font-size: 0.9rem; border: 1px solid #2563EB;">Backend Systems</span>
-          <span style="background: #1f2937; color: #38BDF8; padding: 6px 16px; border-radius: 9999px; font-size: 0.9rem; border: 1px solid #2563EB;">Automation</span>
-          <span style="background: #1f2937; color: #38BDF8; padding: 6px 16px; border-radius: 9999px; font-size: 0.9rem; border: 1px solid #2563EB;">Clean Architecture</span>
-          <span style="background: #1f2937; color: #38BDF8; padding: 6px 16px; border-radius: 9999px; font-size: 0.9rem; border: 1px solid #2563EB;">Scalable Solutions</span>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+<h2 align="center">🌐 Connect With Me</h2>
 
----
-
-<div align="center">
-  <h2>🌐 Connect With Me</h2>
-  
+<p align="center">
+  <a href="https://github.com/aniketbiradar-official">
+    <img src="https://img.shields.io/badge/GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/aniket-biradar-a6b775371/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://aniketbiradar-official.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="https://github.com/aniketbiradar-official">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="mailto:aniket.biradar.official@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</div>
-
-<br>
+</p>
 
 ---
 
-<div align="center">
-  <h2>🏆 GitHub Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=aniketbiradar-official&theme=radical&no-bg=true&margin-w=15&margin-h=15&column=4&title=Multi-Star,Experience,Consistent" alt="GitHub Trophies">
-</div>
+<!-- ============================= ABOUT SECTION ============================= -->
 
-<br>
+<h2 align="center">🚀 About Me</h2>
 
----
+<p align="center">
+I build <b>practical, production-style software</b> focused on backend systems, automation tools, and database-driven applications.  
+I enjoy designing clean architectures, writing maintainable code, and turning ideas into real working systems.
+</p>
 
-<div align="center">
-  <h2>🚀 Skills & Technologies</h2>
-</div>
+<p align="center">
+My GitHub is my <b>engineering journal</b> — a place where I experiment, build, refactor, and continuously improve.
+</p>
 
-<div align="center">
-
-**Programming Languages**
-  
-![Python](https://skillicons.dev/icons?i=python,java,c,cpp,javascript&perline=8)
-
-**Backend & Frameworks**
-  
-![Backend](https://skillicons.dev/icons?i=django,fastapi,flask,spring,servlet&perline=8)
-
-**Databases & Tools**
-  
-![Databases](https://skillicons.dev/icons?i=mysql,sqlite,mongodb,postgres,git,github,postman,docker&perline=8)
-
-**Libraries & Others**
-  
-![Libraries](https://skillicons.dev/icons?i=numpy,pandas,selenium,tensorflow,opencv,linux,vscode,pycharm&perline=8)
-
-</div>
-
-<div align="center" style="margin-top: 30px;">
-  <table style="border-collapse: collapse; width: 90%; max-width: 900px;">
-    <tr>
-      <td style="padding: 18px; background: #161b22; border: 2px solid #2563EB; border-radius: 12px; text-align: left; vertical-align: top; width: 33%;">
-        <strong style="color:#38BDF8;">📊 Data & Architecture</strong><br><br>
-        • MVC Architecture<br>
-        • REST API Design<br>
-        • OOP & SOLID Principles<br>
-        • Data Structures & Algorithms<br>
-        • Clean Code Practices<br>
-        • Logging & Monitoring<br>
-        • Exception Handling<br>
-        • Configuration Management (dotenv)
-      </td>
-      <td style="padding: 18px; background: #161b22; border: 2px solid #7C3AED; border-radius: 12px; text-align: left; vertical-align: top; width: 33%;">
-        <strong style="color:#38BDF8;">🛠️ Tools & Platforms</strong><br><br>
-        • Git & GitHub<br>
-        • VS Code & PyCharm<br>
-        • Postman & Insomnia<br>
-        • Selenium WebDriver<br>
-        • PyInstaller<br>
-        • MongoDB Atlas<br>
-        • MySQL Workbench
-      </td>
-      <td style="padding: 18px; background: #161b22; border: 2px solid #2563EB; border-radius: 12px; text-align: left; vertical-align: top; width: 33%;">
-        <strong style="color:#38BDF8;">🎯 Currently Mastering</strong><br><br>
-        • Advanced Django<br>
-        • Spring Boot<br>
-        • System Design<br>
-        • Docker & Containers<br>
-        • Cloud Platforms (AWS/Azure)<br>
-        • CI/CD Pipelines<br>
-        • Production Deployment
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
+- 🔹 Backend Engineering & APIs  
+- 🔹 Automation & Web Scraping  
+- 🔹 Desktop Applications  
+- 🔹 Clean Architecture & Modular Design  
+- 🔹 Real-world Projects  
+- 🔹 Continuous Learning  
 
 ---
 
-<div align="center">
-  <h2>📍 Current Learning Roadmap</h2>
-  
-  <img src="https://skillicons.dev/icons?i=django,spring,fastapi,docker,kubernetes,aws,azure,jenkins&perline=9" alt="Learning Stack">
-  
-  <p><strong>Focus Areas:</strong> Production-grade Django & FastAPI • Spring Boot Microservices • System Design • Containerization • Cloud Architecture • Scalable Backend Systems</p>
-</div>
+<!-- ============================= SKILLS SECTION ============================= -->
+
+<h2 align="center">🛠 Tech Stack</h2>
+
+### 👨‍💻 Programming Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,javascript" />
+</p>
+
+### ⚙ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=django,fastapi,flask" />
+<img src="https://img.shields.io/badge/JSP-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Servlets-7C3AED?style=flat-square"/>
+</p>
+
+### 🗄 Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
+
+### 🧰 Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman" />
+</p>
+
+### 📚 Libraries
+NumPy • Pandas • Selenium • Tkinter
+
+### 🏗 Architecture & Concepts
+MVC • REST APIs • OOP • SQL • Data Structures • Clean Code • Logging • Exception Handling • Configuration Management
 
 ---
 
-<div align="center">
-  <h2>⭐ Featured Projects</h2>
-</div>
+<!-- ============================= CURRENT LEARNING ============================= -->
 
-<div align="center">
-  <table style="width: 100%; max-width: 1100px; border-collapse: separate; border-spacing: 20px 15px;">
-    
-    <!-- Project 1 -->
-    <tr>
-      <td style="background: linear-gradient(145deg, #161b22, #0d1117); border: 2px solid #2563EB; border-radius: 16px; padding: 24px; vertical-align: top;">
-        <h3 style="margin: 0 0 12px 0; color: #38BDF8;">🕸️ ImageScraper</h3>
-        <p><strong>Industry-grade web scraping platform with intelligent deduplication and cloud storage.</strong></p>
-        <ul style="font-size: 0.92rem; line-height: 1.5; margin: 16px 0;">
-          <li>MongoDB Atlas + GridFS for scalable image storage</li>
-          <li>Selenium automation with intelligent wait strategies</li>
-          <li>SHA-256 based deduplication engine</li>
-          <li>Comprehensive logging and error tracking</li>
-          <li>CLI interface with rich configuration via environment variables</li>
-          <li>Clean architecture with separation of concerns</li>
-        </ul>
-        <div style="margin-top: 20px;">
-          <a href="https://github.com/aniketbiradar-official/ImageScraper" style="background:#2563EB; color:white; padding:8px 18px; border-radius:8px; text-decoration:none; font-weight:600; margin-right:8px;">📂 GitHub</a>
-          <span style="background:#1f2937; color:#38BDF8; padding:8px 18px; border-radius:8px; font-weight:600;">Tech: Python • Selenium • MongoDB • GridFS • Logging</span>
-        </div>
-      </td>
-    </tr>
-    
-    <!-- Project 2 -->
-    <tr>
-      <td style="background: linear-gradient(145deg, #161b22, #0d1117); border: 2px solid #7C3AED; border-radius: 16px; padding: 24px; vertical-align: top;">
-        <h3 style="margin: 0 0 12px 0; color: #38BDF8;">💰 Personal Expense Tracker</h3>
-        <p><strong>Professional desktop application for financial management with analytics and reporting.</strong></p>
-        <ul style="font-size: 0.92rem; line-height: 1.5; margin: 16px 0;">
-          <li>Built with Tkinter and custom dark mode UI</li>
-          <li>SQLite database with proper normalization</li>
-          <li>Advanced analytics, budgeting, and forecasting</li>
-          <li>CSV export and PDF report generation</li>
-          <li>PyInstaller executable with professional installer</li>
-          <li>Layered architecture (Presentation • Business • Data)</li>
-        </ul>
-        <div style="margin-top: 20px;">
-          <a href="https://github.com/aniketbiradar-official/Expense-Tracker" style="background:#2563EB; color:white; padding:8px 18px; border-radius:8px; text-decoration:none; font-weight:600; margin-right:8px;">📂 GitHub</a>
-          <span style="background:#1f2937; color:#38BDF8; padding:8px 18px; border-radius:8px; font-weight:600;">Tech: Python • Tkinter • SQLite • Pandas • PyInstaller</span>
-        </div>
-      </td>
-    </tr>
-    
-    <!-- Project 3 -->
-    <tr>
-      <td style="background: linear-gradient(145deg, #161b22, #0d1117); border: 2px solid #2563EB; border-radius: 16px; padding: 24px; vertical-align: top;">
-        <h3 style="margin: 0 0 12px 0; color: #38BDF8;">📚 Library Management System</h3>
-        <p><strong>Full-featured web application built with Java enterprise technologies following MVC pattern.</strong></p>
-        <ul style="font-size: 0.92rem; line-height: 1.5; margin: 16px 0;">
-          <li>JSP + Servlets architecture</li>
-          <li>Role-based authentication (Admin, Librarian, Student)</li>
-          <li>Complete CRUD operations with validation</li>
-          <li>MySQL database with proper relationships</li>
-          <li>Session management and security best practices</li>
-          <li>Professional UI with Bootstrap</li>
-        </ul>
-        <div style="margin-top: 20px;">
-          <a href="https://github.com/aniketbiradar-official/Library-Management" style="background:#2563EB; color:white; padding:8px 18px; border-radius:8px; text-decoration:none; font-weight:600; margin-right:8px;">📂 GitHub</a>
-          <span style="background:#1f2937; color:#38BDF8; padding:8px 18px; border-radius:8px; font-weight:600;">Tech: Java • JSP • Servlets • MySQL • MVC • Bootstrap</span>
-        </div>
-      </td>
-    </tr>
-    
-    <!-- Project 4 -->
-    <tr>
-      <td style="background: linear-gradient(145deg, #161b22, #0d1117); border: 2px solid #7C3AED; border-radius: 16px; padding: 24px; vertical-align: top;">
-        <h3 style="margin: 0 0 12px 0; color: #38BDF8;">📄 PDF Merger & Manager</h3>
-        <p><strong>Intuitive desktop utility for professional PDF manipulation with robust error handling.</strong></p>
-        <ul style="font-size: 0.92rem; line-height: 1.5; margin: 16px 0;">
-          <li>Built using Tkinter with modern GUI design</li>
-          <li>PyPDF2 for reliable PDF operations</li>
-          <li>Advanced features: merge, split, watermark, encrypt</li>
-          <li>Comprehensive logging system</li>
-          <li>Graceful error handling and user feedback</li>
-          <li>Cross-platform executable support</li>
-        </ul>
-        <div style="margin-top: 20px;">
-          <a href="https://github.com/aniketbiradar-official/PDF-Merger-Tool" style="background:#2563EB; color:white; padding:8px 18px; border-radius:8px; text-decoration:none; font-weight:600; margin-right:8px;">📂 GitHub</a>
-          <span style="background:#1f2937; color:#38BDF8; padding:8px 18px; border-radius:8px; font-weight:600;">Tech: Python • Tkinter • PyPDF2 • Logging</span>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+<h2 align="center">📈 Currently Learning</h2>
 
-<br>
+```
+Backend Mastery Roadmap
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+✅ Django
+✅ FastAPI
+🔄 Spring Framework
+🔄 System Design
+🔄 Docker & Deployment
+🔄 Cloud Fundamentals
+🔄 REST API Best Practices
+```
 
 ---
 
-<div align="center">
-  <h2>🧠 Engineering Philosophy</h2>
-</div>
+<!-- ============================= PROJECTS ============================= -->
 
-<div align="center">
-  <table style="max-width: 820px; background: #161b22; border: 3px solid #7C3AED; border-radius: 20px; padding: 32px 40px;">
-    <tr>
-      <td style="text-align: left; font-size: 1.05rem; line-height: 1.75;">
-        <ul>
-          <li><strong>Readable code is professional code.</strong> If it can't be understood in 6 months, it's not complete.</li>
-          <li><strong>Maintainability > Cleverness.</strong> I optimize for long-term sustainability.</li>
-          <li><strong>Scalability is a mindset.</strong> Every component is built with future growth in mind.</li>
-          <li><strong>SOLID principles</strong> and <strong>separation of concerns</strong> guide every architectural decision.</li>
-          <li><strong>Documentation is not optional.</strong> Future developers (including myself) deserve clarity.</li>
-          <li>I learn by building production-style systems, not just tutorials.</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
+<h2 align="center">💼 Featured Projects</h2>
 
 ---
 
-<div align="center">
-  <h2>📊 GitHub Statistics</h2>
-</div>
+### 🖼 ImageScraper
+**Industry-grade image scraping tool**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniketbiradar-official&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" height="195" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketbiradar-official&theme=radical&hide_border=true&date_format=M%20j%2C%20Y" height="195" alt="Streak Stats">
-</div>
+**Tech:** Python, Selenium, MongoDB Atlas, GridFS  
+**Architecture:** Clean Architecture + Config Management  
+**Features:**
+- SHA256 deduplication
+- CLI interface
+- Logging system
+- Environment variable support
+- Scalable MongoDB storage
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketbiradar-official&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages">
-</div>
-
-<div align="center">
-  <h3>📈 Contribution Activity</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketbiradar-official&theme=github-dark&hide_border=true&radius=16" width="100%" alt="Activity Graph">
-</div>
-
-<div align="center">
-  <h3>🐍 Contribution Snake</h3>
-  <img src="https://github.com/aniketbiradar-official/aniketbiradar-official/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="90%">
-</div>
-
-<br>
+🔗 [GitHub Repository](https://github.com/aniketbiradar-official)
 
 ---
 
-<div align="center">
-  <h2>🗓️ My Engineering Journey</h2>
-</div>
+### 💰 Personal Expense Tracker
+**Desktop budgeting & analytics tool**
 
-<div align="center">
-  <table style="width: 85%; border-collapse: collapse; background: #0d1117; border-radius: 12px; overflow: hidden;">
-    <thead>
-      <tr style="background: #161b22;">
-        <th style="padding: 18px; text-align: left; color: #38BDF8; border-bottom: 2px solid #2563EB;">Year</th>
-        <th style="padding: 18px; text-align: left; color: #38BDF8; border-bottom: 2px solid #2563EB;">Milestones</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="padding: 22px 18px; border-bottom: 1px solid #21262d; color: #58a6ff; font-weight: 600; white-space: nowrap;">2024</td>
-        <td style="padding: 22px 18px; border-bottom: 1px solid #21262d;">
-          Began my programming journey • Mastered Python and core Computer Science fundamentals • Built first automation tools and desktop applications • Developed strong foundation in data structures and clean code
-        </td>
-      </tr>
-      <tr>
-        <td style="padding: 22px 18px; border-bottom: 1px solid #21262d; color: #58a6ff; font-weight: 600; white-space: nowrap;">2025</td>
-        <td style="padding: 22px 18px; border-bottom: 1px solid #21262d;">
-          Built multiple production-style desktop applications • Mastered Java web technologies (JSP/Servlets) • Developed advanced automation frameworks • Created full-stack web applications with proper architecture • Achieved CGPA of 9.55
-        </td>
-      </tr>
-      <tr>
-        <td style="padding: 22px 18px; color: #58a6ff; font-weight: 600; white-space: nowrap;">2026</td>
-        <td style="padding: 22px 18px;">
-          Deep diving into Django, FastAPI and Spring Boot • Learning System Design and Distributed Systems • Building large-scale production projects • Preparing for software engineering internships at top tech companies • Contributing to open source
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+**Tech:** Python, Tkinter, SQLite  
+**Architecture:** Layered Architecture  
+**Features:**
+- Dark mode UI
+- Budget tracking
+- CSV Export
+- Installer via PyInstaller
+- Analytics dashboard
 
-<br>
+🔗 [GitHub Repository](https://github.com/aniketbiradar-official)
 
 ---
 
-<div align="center">
-  <h2>🏅 Achievements</h2>
-</div>
+### 📚 Library Management System
+**Java Web Application**
 
-<div align="center">
-  <table style="max-width: 700px; background: #161b22; border-radius: 16px; padding: 10px;">
-    <tr>
-      <td style="padding: 16px 24px; text-align: left;">
-        <ul>
-          <li>🥇 <strong>Aavishkar 2025</strong> - Poster Presentation on Intelligent Automation Systems</li>
-          <li>🌟 Consistent 9.55 CGPA in B.Sc Computer Science</li>
-          <li>🔧 Built 10+ production-grade personal projects with industry practices</li>
-          <li>📖 Self-taught advanced backend development and system design</li>
-          <li>🌍 Active open source learner and GitHub contributor</li>
-          <li>🏗️ Created multiple tools that solve real problems with clean architecture</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
+**Tech:** JSP, Servlets, MySQL  
+**Architecture:** MVC  
+**Features:**
+- Authentication
+- Role-based access
+- CRUD operations
+- Database-driven system
 
-<br>
+🔗 [GitHub Repository](https://github.com/aniketbiradar-official)
 
 ---
 
-<div align="center">
-  <h2>💡 Favorite Quote</h2>
-  <blockquote style="font-style: italic; color: #8b949e; max-width: 700px; margin: 0 auto; border-left: 5px solid #38BDF8; padding-left: 24px;">
-    "Any fool can write code that a computer can understand. Good programmers write code that humans can understand."
-    <br><strong>— Martin Fowler</strong>
-  </blockquote>
-</div>
+### 📄 PDF Merger Tool
+**Lightweight Desktop Utility**
 
-<br>
+**Tech:** Python, Tkinter, PyPDF2  
+**Features:**
+- GUI-based merging
+- Logging
+- Robust error handling
+
+🔗 [GitHub Repository](https://github.com/aniketbiradar-official)
 
 ---
 
-<div align="center">
-  <h2>☕ Support My Work</h2>
-  <p>If you find my projects useful or educational, consider giving them a <strong>⭐</strong>. It helps me continue building high-quality open-source tools and learning in public.</p>
-  
-  <img src="https://img.shields.io/badge/Thank%20You!-2563EB?style=for-the-badge&logo=star&logoColor=white" alt="Thank You">
-</div>
+<!-- ============================= ENGINEERING PHILOSOPHY ============================= -->
 
-<br>
+<h2 align="center">🧠 Engineering Philosophy</h2>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/v3/api.svg?type=wave&color=7C3AED&height=120&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20using%20Markdown%20%26%20SVG&fontSize=18&fontColor=ffffff">
-    <img src="https://capsule-render.vercel.app/v3/api.svg?type=wave&color=7C3AED&height=120&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20using%20Markdown%20%26%20SVG&fontSize=18" alt="Footer Wave">
-  </picture>
-</div>
+- ✅ Readable & Maintainable Code  
+- ✅ Modular Architecture  
+- ✅ SOLID Thinking  
+- ✅ Documentation First  
+- ✅ Build → Refactor → Improve  
+- ✅ Learn by Building Real Software  
 
-<div align="center">
-  <p style="color: #8b949e; font-size: 0.9rem;">© 2026 Aniket Biradar • Crafting software with purpose</p>
-</div>
+---
+
+<!-- ============================= EXPERIENCE TIMELINE ============================= -->
+
+<h2 align="center">📅 Journey Timeline</h2>
+
+```
+2024 ─ Started Programming Journey
+2025 ─ Built Desktop Applications
+     ─ Learned Java Web (JSP/Servlets)
+     ─ Developed Automation Tools
+2026 ─ Learning Django & FastAPI
+     ─ Building Production Projects
+     ─ Preparing for Internships
+```
+
+---
+
+<!-- ============================= ACHIEVEMENTS ============================= -->
+
+<h2 align="center">🏆 Achievements</h2>
+
+- 🥇 Aavishkar 2025 – Poster Presentation  
+- 📘 Open Source Learning & Contributions  
+- 💻 Multiple Production-style Projects  
+- 🎓 CGPA: 9.55 / 10  
+
+---
+
+<!-- ============================= GITHUB STATS ============================= -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aniketbiradar-official&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketbiradar-official&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketbiradar-official&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aniketbiradar-official&theme=algolia&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+<!-- ============================= ACTIVITY GRAPH ============================= -->
+
+<h2 align="center">🔥 Contribution Activity</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aniketbiradar-official&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+<!-- ============================= SNAKE CONTRIBUTION ============================= -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aniketbiradar-official/aniketbiradar-official/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<!-- ============================= QUOTE ============================= -->
+
+<h2 align="center">💬 Dev Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
+
+---
+
+<!-- ============================= SUPPORT ============================= -->
+
+<h2 align="center">⭐ Support</h2>
+
+<p align="center">
+If you like my work, consider giving a ⭐ to the repositories.
+</p>
+
+---
+
+<!-- ============================= FOOTER ============================= -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  Thank You for Visiting 🙌 <br/>
+  Made with ❤️ using Markdown
+</p>
