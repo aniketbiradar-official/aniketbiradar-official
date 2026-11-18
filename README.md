@@ -1,160 +1,184 @@
 <!--
-  GitHub profile README for github.com/aniketbiradar-official
-  All referenced local images and draw.io sources are included in this package.
-  The diagrams summarize stated capabilities; they are not infrastructure deployment diagrams.
+  Aniket Biradar — GitHub profile
+  Repository: aniketbiradar-official/aniketbiradar-official
+  Custom SVG artwork is under ./assets. Capability maps are editable in ./diagrams.
+  No external counters, unverified statistics, or fabricated credential identifiers.
 -->
 
 <div align="center">
+
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-    <img src="./assets/hero-light.svg" width="100%" alt="Aniket Biradar — Azure Cloud Engineering and Backend Development; completed AZ-900 and AZ-104 certifications">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/studio-v2/hero-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/studio-v2/hero-light.svg" />
+    <img src="./assets/studio-v2/hero-light.svg" alt="Aniket Biradar — Azure Cloud Engineering and Backend Development; AZ-900 and AZ-104 completed" width="100%" />
   </picture>
 
   <p>
-    <a href="https://aniketbiradar.site/">Portfolio</a> &nbsp;·&nbsp;
-    <a href="https://www.linkedin.com/in/aniket-biradar-a6b775371/">LinkedIn</a> &nbsp;·&nbsp;
-    <a href="https://github.com/aniketbiradar-official">GitHub</a> &nbsp;·&nbsp;
-    <a href="mailto:aniketbiradar.official@gmail.com">Email</a>
+    <a href="https://aniketbiradar.site/"><b>PORTFOLIO</b></a>
+    &nbsp;&nbsp; / &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/aniket-biradar-a6b775371/"><b>LINKEDIN</b></a>
+    &nbsp;&nbsp; / &nbsp;&nbsp;
+    <a href="https://github.com/aniketbiradar-official"><b>GITHUB</b></a>
+    &nbsp;&nbsp; / &nbsp;&nbsp;
+    <a href="mailto:aniketbiradar.official@gmail.com"><b>EMAIL</b></a>
   </p>
 
-  <p><sub>Software engineering with an interest in cloud systems, backend applications, access control, and data-driven workflows.</sub></p>
+  <sub>Computer Science undergraduate · Class of 2027 · India</sub>
 </div>
 
----
+<br />
 
-## 01 / About
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/studio-v2/focus-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/studio-v2/focus-light.svg" />
+  <img src="./assets/studio-v2/focus-light.svg" width="100%" alt="Areas of focus: Microsoft Azure cloud engineering, Python and Java backend development, and authentication, APIs, and data" />
+</picture>
 
-I'm **Aniket Biradar**, a B.Sc. Computer Science student (Class of 2027) interested in **Azure Cloud Engineering** and **Backend Development**. I work on Python- and Java-based software projects and enjoy understanding the systems behind application features: APIs, authentication, authorization, persistence, and reporting.
+### About
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Focus</h3>
-      <p>Cloud engineering and Azure administration</p>
-      <p>Backend applications and REST APIs</p>
-      <p>Role-based access and session security</p>
-      <p>Data-driven application workflows</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Working approach</h3>
-      <p>Learn by building</p>
-      <p>Separate application concerns</p>
-      <p>Validate and protect user actions</p>
-      <p>Document technical decisions</p>
-    </td>
-  </tr>
-</table>
+I'm **Aniket Biradar**, a **B.Sc. Computer Science** student at **COCSIT, Latur**, graduating in **2027**. My work sits at the intersection of **backend development** and **cloud engineering**. I build and document Python- and Java-based projects, with particular interest in APIs, access control, data handling, and Azure infrastructure.
 
-## 02 / Microsoft Certifications
+I focus on understanding how applications work end to end: **what a feature does, how its data flows, and where security and reliability matter.**
 
-| Certification | Status |
-| :-- | :-- |
-| **Microsoft Certified: Azure Fundamentals (AZ-900)** | Completed |
-| **Microsoft Certified: Azure Administrator Associate (AZ-104)** | Completed |
-| **Microsoft Certified: Fabric Data Engineer Associate (DP-700)** | Preparing — not yet certified |
+<br />
 
-<sub>Verification links will be added when available. No credential IDs or verification dates are implied.</sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/studio-v2/credentials-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/studio-v2/credentials-light.svg" />
+  <img src="./assets/studio-v2/credentials-light.svg" width="100%" alt="Microsoft Azure Fundamentals AZ-900 — completed; Azure Administrator Associate AZ-104 — completed; Fabric Data Engineer DP-700 — preparing" />
+</picture>
 
-## 03 / Technical Stack
+<p align="center"><sub>AZ-900 and AZ-104 completed · DP-700 in preparation · Verification URLs can be added when provided.</sub></p>
 
-The following reflects technologies from my learning and project experience—not a claim of advanced professional proficiency in each one.
+<br />
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>Programming</h4>
-      Python · Java
-      <h4>Backend</h4>
-      Django
-      <h4>Databases</h4>
-      MySQL · SQLite
-    </td>
-    <td width="50%" valign="top">
-      <h4>Libraries</h4>
-      NumPy · Pandas · Tkinter · PyPDF2
-      <h4>Tools</h4>
-      Git · GitHub · VS Code · PyCharm · Postman
-      <h4>Engineering Concepts</h4>
-      REST APIs · OOP
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/studio-v2/toolkit-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/studio-v2/toolkit-light.svg" />
+  <img src="./assets/studio-v2/toolkit-light.svg" width="100%" alt="Technical experience: Microsoft Azure, AWS fundamentals, Python, Java, SQL, Django, Django REST Framework, MySQL and SQLite" />
+</picture>
+
+<details>
+<summary><b>More about my development toolkit</b></summary>
+
+| Area | Tools and technologies |
+| :--- | :--- |
+| **Cloud** | Microsoft Azure · AWS fundamentals |
+| **Languages** | Python · Java · SQL |
+| **Backend** | Django · Django REST Framework · REST APIs |
+| **Databases** | MySQL · SQLite |
+| **Libraries** | NumPy · Pandas · Tkinter · PyPDF2 |
+| **Development** | Git · GitHub · VS Code · PyCharm · Postman |
+| **Concepts** | Object-oriented programming · Authentication · RBAC |
+
+*This represents learning and project experience; it does not imply advanced professional proficiency in every tool.*
+
+</details>
 
 ---
 
-## 04 / Featured Engineering Work
+## Selected work
 
-These are the **two featured projects**. The diagrams below are editable capability maps, not claims about cloud deployment or production infrastructure.
+Two web application projects that demonstrate application architecture, role-based access, APIs, and data-driven features.
 
-### 01 — PrepX
+<a href="https://github.com/PrepX-Team/PrepX">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/studio-v2/prepx-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/studio-v2/prepx-light.svg" />
+    <img src="./assets/studio-v2/prepx-light.svg" alt="PrepX — AI-powered online exam and practice platform, a three-member team project with Django REST Framework and Gemini API" width="100%" />
+  </picture>
+</a>
 
-**AI-Powered Online Exam & Practice Platform**  
+**PrepX — AI-Powered Online Exam & Practice Platform**  
 *Team project (3 members)*
+
+A Django-based examination and practice platform with role-based access, question bank APIs, AI-assisted question generation, timed assessments, and teacher reporting.
+
+<details>
+<summary><b>Explore PrepX engineering contributions and capability diagram</b></summary>
+
+- **Identity and authorization:** Implemented authentication, session management, route protection, and RBAC for **Student, Teacher, and Admin** roles.
+- **Question bank APIs:** Developed Subject, Topic, and Question Bank APIs using **Django REST Framework**, including ownership controls, difficulty levels, validation, search, and filtering.
+- **AI-assisted learning:** Integrated the **Gemini API** for question generation and personalized learning recommendations.
+- **Practice and examinations:** Developed progressive test unlocking, timed exams, auto-save, randomization, negative marking, and auto-evaluation.
+- **Teacher workflows:** Built exam management, **Chart.js** analytics, **ReportLab** certificates, and CSV/Excel exports with the Django ORM.
 
 **Technology stack:** Python · Django · Django REST Framework · SQLite · Bootstrap · Chart.js · ReportLab · Gemini API
 
-An online examination and practice platform with role-specific access, question bank APIs, AI-assisted learning, configurable assessments, and teacher reporting.
+**Capability map:** This is an application feature map, not a claim about deployment or cloud infrastructure.
 
-<p align="center">
-  <img src="./assets/prepx-capabilities.png" width="100%" alt="PrepX capability map showing Student, Teacher, and Admin roles, the Django application and REST APIs, question bank, exams, analytics, SQLite, Gemini API, and reporting tools">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/studio-v2/prepx-map-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/studio-v2/prepx-map-light.svg" />
+  <img src="./assets/studio-v2/prepx-map-light.svg" alt="PrepX capability map: roles, Django REST Framework, SQLite, question bank, assessments, Gemini assistance, and reporting" width="100%" />
+</picture>
 
-<sub>Editable diagram: <a href="./diagrams/prepx-capabilities.drawio">PrepX capability map (.drawio)</a></sub>
+[**Editable draw.io source**](./diagrams/prepx-capability-map.drawio) · [**View source repository**](https://github.com/PrepX-Team/PrepX)
 
-**Engineering contributions**
+</details>
 
-- **Identity and access:** Implemented authentication, session management, route protection, and role-based access control (RBAC) for **Student, Teacher, and Admin**.
-- **Question bank APIs:** Built Subject, Topic, and Question Bank REST APIs with ownership controls, difficulty levels, validation, search, and filtering.
-- **AI-assisted learning:** Integrated the **Gemini API** for AI-assisted question generation and personalized learning recommendations.
-- **Practice and exams:** Developed progressive test unlocking, timed exams, auto-save, question randomization, negative marking, and automatic evaluation.
-- **Teacher tools and reporting:** Built exam management, **Chart.js** analytics dashboards, **ReportLab** certificate generation, and CSV/Excel exports with Django ORM for data handling.
+<p align="right"><a href="https://github.com/PrepX-Team/PrepX"><b>EXPLORE PREPX ↗</b></a></p>
 
-**Source:** [PrepX-Team / PrepX](https://github.com/PrepX-Team/PrepX)
+<br />
 
----
+<a href="https://github.com/aniketbiradar-official/jewelry-shop-management">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/studio-v2/swarnaratna-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/studio-v2/swarnaratna-light.svg" />
+    <img src="./assets/studio-v2/swarnaratna-light.svg" alt="SwarnaRatna — jewelry shop management system, personal Django project covering inventory, billing, access controls, and analytics" width="100%" />
+  </picture>
+</a>
 
-### 02 — SwarnaRatna
-
-**Jewelry Shop Management System**  
+**SwarnaRatna — Jewelry Shop Management System**  
 *Personal project*
+
+A Django application for jewelry inventory, transaction-based billing, role-specific access, customer records, and business analytics.
+
+<details>
+<summary><b>Explore SwarnaRatna engineering contributions and capability diagram</b></summary>
+
+- **Access controls:** Implemented RBAC for **Admin, Staff, and Customer** with middleware, decorators, and template-level checks.
+- **Inventory:** Built SKU tracking, metal and purity data, stock deductions, low-stock alerts, and soft-delete protection.
+- **Billing and APIs:** Developed **Django REST Framework** endpoints and billing with dynamic pricing, GST calculations, automatic stock updates, and **ReportLab** PDF invoices.
+- **Customer isolation:** Restricted customer views to their own orders, invoices, and repair information.
+- **Transaction integrity:** Used `transaction.atomic()`, CSRF protection, session security, and input validation for financial workflows.
+- **Business analytics:** Created sales, inventory, customer, and repair dashboards with CSV/Excel export, Django ORM, and optimized MySQL queries.
 
 **Technology stack:** Python · Django · Django REST Framework · MySQL · Bootstrap · Chart.js · ReportLab
 
-A web-based jewelry shop management system for inventory, billing, customer access, repair information, and business reporting.
+**Capability map:** This illustrates application capabilities; it does not represent a verified production deployment.
 
-<p align="center">
-  <img src="./assets/swarnaratna-capabilities.png" width="100%" alt="SwarnaRatna capability map showing Admin, Staff, and Customer roles, Django and REST APIs, inventory, billing, customer access, MySQL, PDF invoices, and analytics">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/studio-v2/swarnaratna-map-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/studio-v2/swarnaratna-map-light.svg" />
+  <img src="./assets/studio-v2/swarnaratna-map-light.svg" alt="SwarnaRatna capability map: roles, Django REST Framework, MySQL, inventory, billing, customer access, and analytics" width="100%" />
+</picture>
 
-<sub>Editable diagram: <a href="./diagrams/swarnaratna-capabilities.drawio">SwarnaRatna capability map (.drawio)</a></sub>
+[**Editable draw.io source**](./diagrams/swarnaratna-capability-map.drawio) · [**View source repository**](https://github.com/aniketbiradar-official/jewelry-shop-management)
 
-**Engineering contributions**
+</details>
 
-- **Authorization:** Designed RBAC for **Admin, Staff, and Customer** using middleware, decorators, and template-level authorization checks.
-- **Inventory:** Built SKU tracking, metal and purity information, stock deduction, low-stock alerts, and soft-delete protection.
-- **Billing and APIs:** Developed Django REST Framework endpoints and transaction-based billing with dynamic pricing, GST calculations, automatic stock updates, and **ReportLab** PDF invoices.
-- **Customer data isolation:** Restricted customers to their own orders, invoices, and repair information.
-- **Transaction security:** Applied `transaction.atomic()`, CSRF protection, session security, and input validation to support data integrity in financial operations.
-- **Analytics:** Built sales, inventory, customer, and repair dashboards, CSV/Excel exports, and Django ORM reporting using optimized MySQL queries.
-
-**Source:** [aniketbiradar-official / jewelry-shop-management](https://github.com/aniketbiradar-official/jewelry-shop-management)
+<p align="right"><a href="https://github.com/aniketbiradar-official/jewelry-shop-management"><b>EXPLORE SWARNARATNA ↗</b></a></p>
 
 ---
 
-## 05 / Current Direction
+## Next on the roadmap
 
-**Azure Cloud Engineering · Backend Development**
+I am preparing for **DP-700** and continuing my Azure administration and cloud engineering learning. A dedicated `azure-cloud-portfolio` repository is planned for documenting Azure projects, architectural diagrams, and technical notes as they are completed.
 
-I'm continuing to develop hands-on skills in Azure administration and cloud architecture while preparing for **DP-700**. My next GitHub portfolio work will organize Azure-related learning, technical diagrams, and hands-on projects as they are completed.
+**Microsoft Student Ambassadors:** Registered Member · Community Influencer path in progress.
 
-<!-- Add the azure-cloud-portfolio repository link after that repository has actually been created. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/studio-v2/footer-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/studio-v2/footer-light.svg" />
+  <img src="./assets/studio-v2/footer-light.svg" width="100%" alt="Building, documenting, and learning in public — Azure cloud engineering, backend development, DP-700 preparation" />
+</picture>
 
 <div align="center">
-  <p><b>Build thoughtfully. Document clearly. Keep learning.</b></p>
   <p>
-    <a href="https://aniketbiradar.site/">Portfolio</a> &nbsp;·&nbsp;
-    <a href="https://www.linkedin.com/in/aniket-biradar-a6b775371/">Connect on LinkedIn</a>
+    <a href="https://aniketbiradar.site/">Portfolio</a> &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/aniket-biradar-a6b775371/">LinkedIn</a> &nbsp;&nbsp;·&nbsp;&nbsp;
+    <a href="mailto:aniketbiradar.official@gmail.com">Email</a>
   </p>
-  <sub>© Aniket Biradar · GitHub Profile</sub>
+  <sub>Designed for clarity. Built around verifiable work.</sub>
 </div>
