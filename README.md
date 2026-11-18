@@ -58,24 +58,15 @@
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p></td>
 <td width="33%">⚙️ Backend
 <p>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
-<img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white" alt="JSP"/>
-<img src="https://img.shields.io/badge/Servlets-007396?style=flat-square&logo=java&logoColor=white" alt="Servlets"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring"/>
 </p></td>
 <td width="33%">🗄️ Databases
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p></td>
 </tr>
 <tr>
@@ -83,7 +74,6 @@
 <p>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium"/>
 <img src="https://img.shields.io/badge/Tkinter-3776AB?style=flat-square&logo=python&logoColor=white" alt="Tkinter"/>
 <img src="https://img.shields.io/badge/PyPDF2-3776AB?style=flat-square&logo=python&logoColor=white" alt="PyPDF2"/>
 </p></td>
@@ -97,11 +87,8 @@
 </p></td>
 <td width="33%">🏗️ Architecture
 <p>
-<img src="https://img.shields.io/badge/MVC_Pattern-2563EB?style=flat-square&logo=pattern&logoColor=white" alt="MVC"/>
 <img src="https://img.shields.io/badge/REST_APIs-38BDF8?style=flat-square&logo=api&logoColor=white" alt="REST"/>
 <img src="https://img.shields.io/badge/OOP-7C3AED?style=flat-square&logo=oop&logoColor=white" alt="OOP"/>
-<img src="https://img.shields.io/badge/Layered_Arch-22C55E?style=flat-square&logo=layers&logoColor=white" alt="Layered"/>
-<img src="https://img.shields.io/badge/SOLID-2563EB?style=flat-square&logo=solid&logoColor=white" alt="SOLID"/>
 </p></td>
 </tr>
 </table></div><!-- SVG Divider -->
