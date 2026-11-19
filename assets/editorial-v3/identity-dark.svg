@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="112" viewBox="0 0 1120 112" role="img" aria-labelledby="title desc">
+  <title id="title">Cloud, application and data</title>
+  <desc id="desc">Minimal cloud-to-application-to-data diagram, used as a visual separator between profile introduction and technical work.</desc>
+  <rect width="1120" height="112" rx="14" fill="#0D2035" />
+  <rect x="0.5" y="0.5" width="1119" height="111" rx="13.5" fill="none" stroke="#294B6B" />
+  <g fill="none" stroke="#294B6B" stroke-width="1" opacity="0.55">
+    <path d="M0 28H1120 M0 56H1120 M0 84H1120" />
+    <path d="M56 0V112 M168 0V112 M280 0V112 M392 0V112 M504 0V112 M616 0V112 M728 0V112 M840 0V112 M952 0V112 M1064 0V112" />
+  </g>
+  <path d="M300 56H380 M530 56H610 M760 56H840" stroke="#53B4FF" stroke-width="2.2" stroke-linecap="round" stroke-dasharray="3 6" />
+  <g fill="#53B4FF"><circle cx="300" cy="56" r="3.5"/><circle cx="530" cy="56" r="3.5"/><circle cx="760" cy="56" r="3.5"/><circle cx="840" cy="56" r="3.5"/></g>
+  <rect x="130" y="24" width="170" height="64" rx="12" fill="#0D2035" stroke="#53B4FF" stroke-width="1.5" />
+  <rect x="380" y="24" width="150" height="64" rx="12" fill="#0D2035" stroke="#294B6B" stroke-width="1.5" />
+  <rect x="610" y="24" width="150" height="64" rx="12" fill="#0D2035" stroke="#294B6B" stroke-width="1.5" />
+  <rect x="840" y="24" width="150" height="64" rx="12" fill="#0D2035" stroke="#53B4FF" stroke-width="1.5" />
+  <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle" font-weight="600" fill="#F4F8FF">
+    <text x="215" y="52" font-size="17">Cloud</text><text x="455" y="52" font-size="17">Backend</text><text x="685" y="52" font-size="17">Data</text><text x="915" y="52" font-size="17">Systems</text>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="12" text-anchor="middle" fill="#AAC0D8">
+    <text x="215" y="70">Azure</text><text x="455" y="70">Django / REST</text><text x="685" y="70">SQL</text><text x="915" y="70">Architecture</text>
+  </g>
+</svg>
